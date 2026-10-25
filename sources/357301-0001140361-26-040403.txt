@@ -1,0 +1,505 @@
+Company: TRUSTCO BANK CORP N Y (CIK 357301)
+Accession: 0001140361-26-040403
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/357301/000114036126040403/ef20084125_ex99-a.htm
+Filing: https://www.sec.gov/Archives/edgar/data/357301/000114036126040403/0001140361-26-040403-index.htm
+Saved: 2026-10-25T21:45:34+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.(A) 5 ef20084125_ex99-a.htm EXHIBIT 99(A)
+Exhibit 99(a)
+5 Sarnowski Drive, Glenville, New York, 12302 | News Release
+Subsidiary: | Trustco Bank | Nasdaq -- TRST
+Contact: | Robert Leonard Executive Vice President (518) 381-3693 Lauren A. McCormick Vice President, Treasurer, and Assistant Corporate Secretary (518) 381-3673
+FOR IMMEDIATE RELEASE:
+TrustCo’s Positive Momentum Yields 6.5% Net Income Increase;
+$17.3 Million for Third Quarter of 2026
+Executive Snapshot:
+Financial results:
+●
+Key metrics for the third quarter of 2026 compared to the third quarter of 2025:
+■
+Diluted earnings per share of $1.02 increased 18.6% compared to $0.86
+■
+Net interest income of $47.0 million, up 9.1% from $43.1 million
+■
+Net interest margin of 2.95%, up 16 basis points from 2.79%
+■
+Net income of $17.3 million increased 6.5% compared to $16.3 million
+■
+Average loans increased $238.1 million, or 4.6%
+■
+Average deposits increased $229.6 million, or 4.2%
+●
+Capital allocation and Stock Repurchase Program:
+■
+Increased dividend 5.3% to $0.40 per share, or $1.60 per share on an annualized basis
+■
+Purchased 13.2% of TrustCo outstanding common stock under the 2026 and 2025 Stock Repurchase Programs through the acquisition of over 1.5 million shares in the first nine months of 2026, following the purchase of 1 million shares in 2025, reinforcing a disciplined long-term capital allocation strategy
+■
+On pace to complete the repurchase of a total of three million shares, or 15.8%, of TrustCo common stock by the end of 2026
+Glenville, New York – October 21, 2026
+TrustCo Bank Corp NY (TrustCo, NASDAQ: TRST) today announced financial results for the third quarter of 2026 highlighted by a continued increase in net interest income and sustained loan and deposit growth across core lending and deposit categories. For the three months ended September 30, 2026, net interest income increased 9.1% year over year to $47.0 million. This was driven by the ongoing asset repricing across our loan portfolio at higher yields and effective execution of deposit growth and pricing strategies. For the three months ended September 30, 2026, net interest margin expanded to 2.95% from 2.79% in the prior year period. This resulted in third quarter 2026 net income of $17.3 million, or $1.02 diluted earnings per share, compared to net income of $16.3 million, or $0.86 diluted earnings per share, for the third quarter 2025; and contributed to net income of $50.6 million, or $2.91 diluted earnings per share, for the nine months ended September 30, 2026, compared to net income of $45.6 million, or $2.41 diluted earnings per share, for the nine months ended September 30, 2025.
+Page | 1
+1
+Overview
+Chairman, President, and CEO, Robert J. McCormick, said “Another quarter of solid financial performance is the product of TrustCo’s continued execution of tried and true banking principles that, quarter after quarter, continue to build positive momentum. Steady growth in both loans and deposits, coupled with favorable repricing of the Bank’s nearly $5.5 billion loan portfolio, have boosted net interest income to $47 million for the quarter, increased margin by 16 basis points, and driven return on average equity up 1.28% year over year, a 14% increase. Our management team has built a resilient balance sheet that can perform well in the current dynamic interest-rate environment, which efforts are supported by the entire organization’s focus on our relationship-based banking strategy. The ongoing repurchase of shares and regular payment of our recently-increased quarterly dividend work together to enhance shareholder value. With all of these factors coming together and trending favorably, we are optimistic about the Company’s ability to maintain positive momentum into 2027.”
+Details
+We have continued to see meaningful net income and net interest income improvement. The loan and investment portfolios of Trustco Bank (the “Bank”) continue to reprice upward as lower yielding assets mature and are replaced with higher rate loan originations and investment purchases, driving steady improvement in overall asset yields. We believe that this ongoing repricing reflects disciplined loan production aligned with current market conditions. Complementing this, the Bank maintains a strong liquidity position, driven by deposit growth while decreasing funding costs which underscores the Bank's disciplined relationship banking strategy and the value customers place on stability and service. We believe that these factors position the Bank to generate continued net income and net interest income growth in the coming quarters and deliver long-term value to shareholders. Net interest income was $47.0 million for the third quarter of 2026, an increase of $3.9 million, or 9.1%, compared to the third quarter of 2025, driven by loan growth at higher interest rates and a decrease in interest expense. The net interest margin for the third quarter of 2026 was 2.95%, up 16 basis points from 2.79% in the third quarter of 2025. The yield on interest-earning assets increased to 4.35% in the third quarter of 2026, up 10 basis points from 4.25% in the third quarter of 2025. The cost of interest bearing liabilities decreased to 1.79% in the third quarter of 2026, down 11 basis points from 1.90% in the third quarter of 2025.
+Average loans were up $238.1 million, or 4.6%, in the third quarter of 2026 over the same period in 2025. Average residential loans and Home Equity Credit Lines (HECLs), our primary lending focus, were up $177.3 million, or 4.0%, and $50.0 million, or 11.4%, respectively, in the third quarter of 2026 over the same period in 2025. Average commercial loans also increased $13.5 million, or 4.3%, in the third quarter of 2026 over the same period in 2025. Loan growth in the third quarter of 2026 remained steady, driven by continued strength in core relationship lending. Credit quality metrics were stable. Following this period of sustained growth, TrustCo remains confident in the quality of its loan portfolio amid broader market concerns. We believe that our continued focus on strong underwriting within our loan portfolio and conservative lending standards positions us to manage credit risk effectively in the current environment. The consistent growth in the loan portfolio will likely enhance net interest income in the quarters ahead. Average deposits were up $229.6 million, or 4.2%, for the third quarter of 2026 compared to the third quarter of 2025, primarily as a result of an increase in time deposits, interest bearing checking accounts, and demand deposits. The Bank’s ongoing emphasis on relationship banking, combined with competitive product offerings and digital capabilities, has contributed to a broadening deposit base that supports ongoing loan growth and expansion.
+Page | 2
+2
+During the third quarter of 2026, the Bank remained focused on capital deployment and allocation, guided by a disciplined framework, with a dividend increase, and share repurchases, these serve as key tools to enhance shareholder value. This reflects our confidence in the long-term strength of the franchise and our focus on capital optimization. During the third quarter, the Bank declared an increased quarterly cash dividend of $0.40 per share, or $1.60 per share on an annualized basis. The declared dividend represents an increase of 5.3% over the prior dividend amount which continues the Banks commitment in paying dividends for over a century. For the three and nine months ended September 30, 2026, TrustCo repurchased 500 thousand and 1.5 million shares, or 2.9% and 8.3%, respectively, of TrustCo’s outstanding common stock under its previously announced stock repurchase program, which authorizes TrustCo to repurchase up to two million shares, or 11.1%, of TrustCo’s outstanding common stock in 2026. We continue to believe that our approach ensures every dollar of capital is working to generate solid returns, strengthen customer relationships, and enhance shareholder value. As of September 30, 2026, our equity to asset ratio was 9.72%, compared to 10.90% as of September 30, 2025. Book value per share as of September 30, 2026 was $38.20, up 2.4% compared to $37.30 as of a year earlier.
+Asset quality remains strong and has been consistent over the past twelve months. TrustCo recorded a provision for credit losses of $850 thousand in the third quarter of 2026, an increase of $600 thousand compared to the same period in 2025. For the three months ended September 30, 2026, the provision for credit losses was the result of a provision for credit losses on loans of $1.05 million due to loan growth and changes in forward looking economic assumptions, and a benefit for credit losses on unfunded commitments of $200 thousand due to the seasonal decrease in the loan pipeline. Accordingly, increases in the overall provision expense are being driven by loan growth and changes in economic forecasts rather than the deterioration in underlying credit performance. The ratio of allowance for credit losses on loans to total loans was 1.01% and 1.00% as of September 30, 2026 and September 30, 2025, respectively. The allowance for credit losses on loans was $55.2 million as of September 30, 2026, compared to $51.9 million as of September 30, 2025. Nonperforming loans (NPLs) were $21.1 million as of September 30, 2026, compared to $18.5 million as of September 30, 2025. NPLs were 0.39% and 0.36% of total loans as of September 30, 2026 and September 30, 2025, respectively. The coverage ratio, or allowance for credit losses on loans to NPLs, was 261.8% as of September 30, 2026, compared to 280.8% as of September 30, 2025. Nonperforming assets (NPAs) were $22.3 million as of September 30, 2026, compared to $19.7 million as of September 30, 2025. Asset quality metrics remain stable and well covered by reserves, reflecting the Bank’s conservative underwriting standards.
+A conference call to discuss third quarter 2026 results will be held at 9:00 a.m. Eastern Time on October 22, 2026. Those wishing to participate in the call may dial toll-free for North America 1-833-461-5787, Meeting ID 638 789 515. The call will also be audio webcast at https://events.q4inc.com/attendee/638789515. The webcast replay will be available for one year at the same link.
+About TrustCo Bank Corp NY
+TrustCo Bank Corp NY is a $6.5 billion savings and loan holding company and through its subsidiary, Trustco Bank, operated 133 offices in New York, New Jersey, Vermont, Massachusetts, and Florida as of September 30, 2026.
+In addition, the Bank’s Wealth Management Department offers a full range of investment services, retirement planning and trust and estate administration services. The common shares of TrustCo are traded on the NASDAQ Global Select Market under the symbol TRST.
+Page | 3
+3
+Forward-Looking Statements
+All statements in this news release and the related earnings call that are not historical are forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by words such as "anticipate," "intend," "plan," "goal," "seek," "believe," "project," "estimate," "expect," "strategy," "future," "likely," "may," "should," "will," “can” and similar references to future development, results or periods. Examples of forward-looking statements include, among others, statements we make regarding our expectations for our future performance, including our expectations regarding net income, net interest income and shareholder value for future quarters; expectations regarding our future momentum; the anticipated impact of our focus on underwriting within our loan portfolio and conservative lending standards; the expected impact of the continued repricing of our loan and investment portfolios, as well as our liquidity position, on our future net interest and net interest income; our balance sheet’s performance in future interest-rate environments; future overall asset yields; the amount of shares that we expect to repurchase in 2026; and the anticipated effects of our capital management strategy, including our stock repurchase program. Forward-looking statements are based on management’s current expectations, as well as certain assumptions and estimates made by, and information available to, management at the time the statements are made. Such forward-looking statements are subject to factors and uncertainties that could cause TrustCo’s actual results to differ materially from the views, beliefs and projections expressed in such statements. TrustCo wishes to caution readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made. The following important factors, among others, in some cases have affected and in the future could affect TrustCo’s actual results and could cause TrustCo’s actual financial performance to differ materially from that expressed in any forward-looking statement: future changes in interest rates; external economic factors, such as changes in monetary policy, ongoing inflationary pressures and continued elevated prices; exposure to credit risk in our lending activities; the risk of weakness in residential real estate markets; our increasing commercial loan portfolio; the sufficiency of our allowance for credit losses on loans to cover actual loan losses; our ability to meet the cash flow requirements of our depositors or borrowers or to meet our operating cash needs to fund corporate expansion and other activities; claims and litigation pertaining to fiduciary responsibility and lender liability; the enforcement of federal cannabis laws and regulations and its impact on our ability to provide services in the cannabis industry; our dependency upon the services of the management team; our disclosure controls and procedures’ ability to prevent or detect errors or acts of fraud; the adequacy of our business continuity and disaster recovery plans; the effectiveness of our risk management framework; the impact of any expansion by us into new lines of business or new products and services; the rising popularity of alternative financial products, including fintech platforms, cryptocurrencies, money market funds, and digital wallets; an increase in the prevalence of fraud and other financial crimes; the impact of severe weather events and climate change on us and the communities we serve, including societal responses to climate change; environmental, social and governance risks and their impact on our reputation and relationships; the chance of a prolonged economic downturn, especially one affecting our geographic market area; instability in global economic conditions and geopolitical matters, including as a result of the conflict between the United States (U.S.) and Iran, as well as volatility in financial markets; the chance of a downgrade in the credit rating of the U.S. government or a default by the U.S. government; the soundness of other financial institutions; U.S. government shutdowns; fluctuations in the trust wealth management fees we receive as a result of investment performance; the impact of regulatory capital rules on our growth; changes in laws and regulations, including changes in cybersecurity or privacy regulations; our compliance with laws designed to protect consumers, including the Community Reinvestment Act and fair lending laws; restrictions on data collection and use; our compliance with the USA PATRIOT Act, Bank Secrecy Act, and other laws and regulations that could result in material fines or sanctions; changes in tax laws; limitations on our ability to pay dividends; TrustCo Realty Corp.’s ability to qualify as a real estate investment trust; changes in accounting standards; competition within our market areas; consumers and businesses’ use of non-banks to complete financial transactions; our reliance on third-party service providers; the impact of data breaches and cyber-attacks; the development and use of artificial intelligence; the impact of a failure in or breach of our operational or security systems or infrastructure, or those of third parties; the impact of an unauthorized disclosure of sensitive or confidential client or customer information; the impact of interruptions in the effective operation of our computer systems; the impact of anti-takeover provisions in our organizational documents; the impact of the manner in which we allocate capital; the impact of the actions of activist shareholders; and other risks and uncertainties set forth in our public filings made with the Securities and Exchange Commission (the “SEC”), including our Annual Report on Form 10-K for the year ended December 31, 2025, our Quarterly Report on Form 10-Q for the first and second quarters of 2026, our upcoming quarterly report on Form 10-Q for the third quarter of 2026, and future reports to be filed with the SEC. The forward-looking statements contained in this news release represent TrustCo management’s judgment as of the date of this news release. TrustCo disclaims, however, any intent or obligation to update forward-looking statements, either as a result of future developments, new information or otherwise, except as may be required by law.
+Page | 4
+4
+TRUSTCO BANK CORP NY
+GLENVILLE, NY
+FINANCIAL HIGHLIGHTS
+(dollars in thousands, except per share data)
+(Unaudited)
+Three months ended
+9/30/2026 | 6/30/2026 | 9/30/2025
+Summary of operations
+Net interest income | $ | 47,039 | $ | 45,590 | $ | 43,119
+Provision for credit losses | 850 | 650 | 250
+Net gains on equity securities | 56 | 844 | -
+Noninterest income, excluding net gains on equity securities | 4,762 | 5,068 | 4,689
+Noninterest expense | 28,019 | 28,333 | 26,242
+Net income | 17,318 | 16,965 | 16,258
+Per share
+Net income per share:
+- Basic | $ | 1.03 | $ | 0.98 | $ | 0.87
+- Diluted | 1.02 | 0.98 | 0.86
+Cash dividends | 0.40 | 0.38 | 0.38
+Book value at period end | 38.20 | 38.53 | 37.30
+Market price at period end | 54.29 | 54.91 | 36.30
+At period end
+Full time equivalent employees | 740 | 742 | 738
+Full service banking offices | 133 | 132 | 136
+Performance ratios
+Return on average assets | 1.05 | % | 1.04 | % | 1.02 | %
+Return on average equity | 10.57 | 10.22 | 9.29
+Efficiency ratio (GAAP) | 54.03 | 55.01 | 54.89
+Adjusted Efficiency ratio (1) | 54.11 | 55.71 | 54.87
+Net interest spread | 2.56 | 2.48 | 2.35
+Net interest margin | 2.95 | 2.87 | 2.79
+Dividend payout ratio | 38.58 | 38.36 | 43.68
+Capital ratios at period end
+Consolidated equity to assets (GAAP) | 9.72 | % | 10.05 | % | 10.90 | %
+Consolidated tangible equity to tangible assets (1) | 9.71 | % | 10.05 | % | 10.89 | %
+Asset quality analysis at period end
+Nonperforming loans to total loans | 0.39 | % | 0.40 | % | 0.36 | %
+Nonperforming assets to total assets | 0.34 | 0.35 | 0.31
+Allowance for credit losses on loans to total loans | 1.01 | 1.01 | 1.00
+Coverage ratio (2) | 2.6 | x | 2.5 | x | 2.8 | x
+(1)
+Non-GAAP Financial Measure, see Non-GAAP Financial Measures Reconciliation.
+(2)
+Calculated as allowance for credit losses on loans divided by total nonperforming loans.
+Page | 5
+5
+FINANCIAL HIGHLIGHTS, Continued
+(dollars in thousands, except per share data)
+(Unaudited)
+Nine months ended
+09/30/26 | 09/30/25
+Summary of operations
+Net interest income | $ | 137,337 | $ | 125,238
+Provision for credit losses | 2,450 | 1,200
+Net gains on equity securities | 900 | -
+Noninterest income, excluding net gains on equity securities | 14,671 | 14,515
+Noninterest expense | 83,334 | 78,794
+Net income | 50,568 | 45,572
+Per share
+Net income per share:
+- Basic | $ | 2.92 | $ | 2.41
+- Diluted | 2.91 | 2.41
+Cash dividends | 1.16 | 1.10
+Book value at period end | 38.20 | 37.30
+Market price at period end | 54.29 | 36.30
+Performance ratios
+Return on average assets | 1.04 | % | 0.97 | %
+Return on average equity | 10.15 | 8.84
+Efficiency ratio (GAAP) | 54.50 | 56.38
+Adjusted Efficiency ratio (1) | 54.72 | 55.98
+Net interest spread | 2.49 | 2.28
+Net interest margin | 2.89 | 2.71
+Dividend payout ratio | 39.41 | 45.55
+(1)
+Non-GAAP Financial Measure, see Non-GAAP Financial Measures Reconciliation.
+Page | 6
+6
+CONSOLIDATED STATEMENTS OF INCOME
+(dollars in thousands, except per share data)
+(Unaudited)
+Three months ended
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Interest and dividend income:
+Interest and fees on loans | $ | 60,875 | $ | 58,757 | $ | 57,565 | $ | 56,886 | $ | 55,953
+Interest and dividends on securities available for sale:
+U. S. government sponsored enterprises | 86 | 111 | 149 | 350 | 599
+State and political subdivisions | - | - | - | - | 1
+Mortgage-backed securities and collateralized mortgage obligations - residential | 1,509 | 1,486 | 1,469 | 1,490 | 1,583
+Corporate bonds | 820 | 776 | 694 | 536 | 265
+Small Business Administration - guaranteed
+participation securities | 56 | 59 | 63 | 68 | 72
+Other securities | 8 | 7 | 8 | 8 | 7
+Total interest and dividends on securities available for sale | 2,479 | 2,439 | 2,383 | 2,452 | 2,527
+Interest on held to maturity securities:
+Mortgage-backed securities and collateralized mortgage obligations - residential | 43 | 44 | 47 | 50 | 52
+Total interest on held to maturity securities | 43 | 44 | 47 | 50 | 52
+Federal Home Loan Bank stock | 112 | 123 | 126 | 126 | 125
+Interest on federal funds sold and other short-term investments | 6,098 | 6,344 | 6,105 | 6,580 | 7,376
+Total interest income | 69,607 | 67,707 | 66,226 | 66,094 | 66,033
+Interest expense:
+Interest on deposits:
+Interest-bearing checking | 642 | 551 | 533 | 501 | 483
+Savings | 730 | 703 | 675 | 715 | 741
+Money market deposit accounts | 1,597 | 1,631 | 1,552 | 1,810 | 2,065
+Time deposits | 19,245 | 18,863 | 18,357 | 18,993 | 19,427
+Interest on short-term borrowings | 354 | 369 | 401 | 340 | 198
+Total interest expense | 22,568 | 22,117 | 21,518 | 22,359 | 22,914
+Net interest income | 47,039 | 45,590 | 44,708 | 43,735 | 43,119
+Less: Provision for credit losses | 850 | 650 | 950 | 400 | 250
+Net interest income after provision for credit losses | 46,189 | 44,940 | 43,758 | 43,335 | 42,869
+Noninterest income:
+Trustco Financial Services income | 2,059 | 1,980 | 2,135 | 1,950 | 1,967
+Fees for services to customers | 2,409 | 2,487 | 2,340 | 2,192 | 2,429
+Net gains on equity securities | 56 | 844 | - | - | -
+Other | 294 | 601 | 366 | 288 | 293
+Total noninterest income | 4,818 | 5,912 | 4,841 | 4,430 | 4,689
+Noninterest expenses:
+Salaries and employee benefits | 12,776 | 13,047 | 12,219 | 12,242 | 12,727
+Net occupancy expense | 4,526 | 4,381 | 4,542 | 4,592 | 4,470
+Equipment expense | 2,306 | 2,082 | 2,022 | 2,219 | 1,938
+Professional services | 1,744 | 1,968 | 1,526 | 1,083 | 1,571
+Outsourced services | 2,800 | 2,704 | 2,700 | 2,100 | 2,492
+Advertising expense | 468 | 586 | 394 | 629 | 290
+FDIC and other insurance | 1,104 | 1,101 | 1,153 | 1,135 | 1,052
+Other real estate (income) expense, net | (12 | ) | 112 | 50 | 161 | 8
+Other | 2,307 | 2,352 | 2,376 | 2,549 | 1,694
+Total noninterest expenses | 28,019 | 28,333 | 26,982 | 26,710 | 26,242
+Income before taxes | 22,988 | 22,519 | 21,617 | 21,055 | 21,316
+Income taxes | 5,670 | 5,554 | 5,332 | 5,490 | 5,058
+Net income | $ | 17,318 | $ | 16,965 | $ | 16,285 | $ | 15,565 | $ | 16,258
+Net income per common share:
+- Basic | $ | 1.03 | $ | 0.98 | $ | 0.91 | $ | 0.85 | $ | 0.87
+- Diluted | 1.02 | 0.98 | 0.91 | 0.85 | 0.86
+Weighted average basic shares (in thousands) | 16,842 | 17,304 | 17,813 | 18,275 | 18,755
+Weighted average diluted shares (in thousands) | 16,939 | 17,386 | 17,876 | 18,327 | 18,805
+Page | 7
+7
+CONSOLIDATED STATEMENTS OF INCOME, Continued
+(dollars in thousands, except per share data)
+(Unaudited)
+Nine months ended
+09/30/26 | 09/30/25
+Interest and dividend income:
+Interest and fees on loans | $ | 177,197 | $ | 163,960
+Interest and dividends on securities available for sale:
+U. S. government sponsored enterprises | 346 | 1,809
+State and political subdivisions | - | 1
+Mortgage-backed securities and collateralized mortgage obligations - residential | 4,464 | 4,679
+Corporate bonds | 2,290 | 735
+Small Business Administration - guaranteed participation securities | 178 | 228
+Other securities | 23 | 22
+Total interest and dividends on securities available for sale | 7,301 | 7,474
+Interest on held to maturity securities:
+Mortgage-backed securities-residential | 134 | 163
+Total interest on held to maturity securities | 134 | 163
+Federal Home Loan Bank stock | 361 | 405
+Interest on federal funds sold and other short-term investments | 18,547 | 21,320
+Total interest income | 203,540 | 193,322
+Interest expense:
+Interest on deposits:
+Interest-bearing checking | 1,726 | 1,577
+Savings | 2,108 | 2,208
+Money market deposit accounts | 4,780 | 6,140
+Time deposits | 56,465 | 57,605
+Interest on short-term borrowings | 1,124 | 554
+Total interest expense | 66,203 | 68,084
+Net interest income | 137,337 | 125,238
+Less: Provision for credit losses | 2,450 | 1,200
+Net interest income after provision for credit losses | 134,887 | 124,038
+Noninterest income:
+Trustco Financial Services income | 6,174 | 5,905
+Fees for services to customers | 7,236 | 7,340
+Net gains on equity securities | 900 | -
+Other | 1,261 | 1,270
+Total noninterest income | 15,571 | 14,515
+Noninterest expenses:
+Salaries and employee benefits | 38,042 | 36,497
+Net occupancy expense | 13,449 | 13,542
+Equipment expense | 6,410 | 5,800
+Professional services | 5,238 | 5,183
+Outsourced services | 8,204 | 7,652
+Advertising expense | 1,448 | 955
+FDIC and other insurance | 3,358 | 3,376
+Other real estate expense, net | 150 | 558
+Other | 7,035 | 5,231
+Total noninterest expenses | 83,334 | 78,794
+Income before taxes | 67,124 | 59,759
+Income taxes | 16,556 | 14,187
+Net income | $ | 50,568 | $ | 45,572
+Net income per common share:
+- Basic | $ | 2.92 | $ | 2.41
+- Diluted | 2.91 | 2.41
+Weighted average basic shares (in thousands) | 17,317 | 18,912
+Weighted average diluted shares (in thousands) | 17,398 | 18,947
+Page | 8
+8
+CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+(dollars in thousands)
+(Unaudited)
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+ASSETS:
+Cash and due from banks | $ | 42,914 | $ | 44,503 | $ | 43,165 | $ | 50,569 | $ | 42,026
+Federal funds sold and other short term investments | 554,402 | 652,136 | 724,943 | 679,858 | 653,530
+Total cash and cash equivalents | 597,316 | 696,639 | 768,108 | 730,427 | 695,556
+Securities available for sale:
+U. S. government sponsored enterprises | 9,873 | 14,956 | 14,887 | 31,772 | 51,557
+States and political subdivisions | 9 | 9 | 9 | 9 | 18
+Mortgage-backed securities and collateralized mortgage obligations - residential | 196,688 | 203,601 | 205,209 | 206,290 | 215,466
+Small Business Administration - guaranteed participation securities | 9,306 | 10,153 | 10,796 | 11,710 | 12,330
+Corporate bonds | 77,434 | 73,804 | 69,137 | 59,932 | 39,800
+Other securities | 713 | 718 | 708 | 705 | 701
+Total securities available for sale | 294,023 | 303,241 | 300,746 | 310,418 | 319,872
+Held to maturity securities:
+Mortgage-backed securities and collateralized mortgage obligations-residential | 3,640 | 3,842 | 4,097 | 4,339 | 4,593
+Total held to maturity securities | 3,640 | 3,842 | 4,097 | 4,339 | 4,593
+Federal Reserve Bank and Federal Home Loan Bank stock | 6,756 | 6,756 | 6,601 | 6,601 | 6,601
+Loans:
+Commercial | 332,406 | 322,439 | 316,763 | 313,443 | 311,491
+Residential mortgage loans | 4,614,353 | 4,560,717 | 4,497,911 | 4,463,260 | 4,420,813
+Home equity line of credit | 498,088 | 484,197 | 464,887 | 464,201 | 447,235
+Installment loans | 9,439 | 9,882 | 10,617 | 11,556 | 12,231
+Loans, net of deferred net costs | 5,454,286 | 5,377,235 | 5,290,178 | 5,252,460 | 5,191,770
+Less: Allowance for credit losses on loans | 55,162 | 54,082 | 52,994 | 52,205 | 51,891
+Net loans | 5,399,124 | 5,323,153 | 5,237,184 | 5,200,255 | 5,139,879
+Bank premises and equipment, net | 42,266 | 42,273 | 41,071 | 40,707 | 39,718
+Operating lease right-of-use assets | 32,715 | 33,872 | 33,305 | 33,638 | 35,291
+Other assets | 118,220 | 115,137 | 116,767 | 114,315 | 107,514
+Total assets | $ | 6,494,060 | $ | 6,524,913 | $ | 6,507,879 | $ | 6,440,700 | $ | 6,349,024
+LIABILITIES:
+Deposits:
+Demand | $ | 817,555 | $ | 824,717 | $ | 811,637 | $ | 814,908 | $ | 795,508
+Interest-bearing checking | 1,077,289 | 1,089,746 | 1,078,520 | 1,077,141 | 1,025,582
+Savings accounts | 1,060,493 | 1,076,934 | 1,070,319 | 1,069,564 | 1,063,763
+Money market deposit accounts | 429,555 | 438,799 | 442,760 | 457,389 | 455,488
+Time deposits | 2,299,326 | 2,251,370 | 2,249,117 | 2,138,415 | 2,140,932
+Total deposits | 5,684,218 | 5,681,566 | 5,652,353 | 5,557,417 | 5,481,273
+Short-term borrowings | 98,108 | 108,382 | 112,930 | 120,054 | 97,749
+Operating lease liabilities | 35,075 | 36,361 | 35,920 | 36,391 | 38,180
+Accrued expenses and other liabilities | 45,334 | 42,595 | 35,756 | 40,249 | 39,809
+Total liabilities | 5,862,735 | 5,868,904 | 5,836,959 | 5,754,111 | 5,657,011
+SHAREHOLDERS' EQUITY:
+Capital stock | 20,119 | 20,119 | 20,119 | 20,119 | 20,103
+Surplus | 261,758 | 261,283 | 260,808 | 260,333 | 259,980
+Undivided profits | 510,684 | 499,997 | 489,540 | 479,996 | 471,314
+Accumulated other comprehensive income, net of tax | 76 | 6,967 | 8,241 | 10,024 | 2,955
+Treasury stock at cost | (161,312 | ) | (132,357 | ) | (107,788 | ) | (83,883 | ) | (62,339 | )
+Total shareholders' equity | 631,325 | 656,009 | 670,920 | 686,589 | 692,013
+Total liabilities and shareholders' equity | $ | 6,494,060 | $ | 6,524,913 | $ | 6,507,879 | $ | 6,440,700 | $ | 6,349,024
+Outstanding shares (in thousands) | 16,528 | 17,028 | 17,507 | 18,029 | 18,554
+Page | 9
+9
+NONPERFORMING ASSETS
+(dollars in thousands)
+(Unaudited)
+9/30/2026 | 6/30/2026 | 3/31/2026 | 12/31/2025 | 9/30/2025
+Nonperforming Assets
+New York and other states*
+Loans in nonaccrual status:
+Commercial | $ | 2,008 | $ | 1,964 | $ | 1,968 | $ | 1,990 | $ | 292
+Real estate mortgage - 1 to 4 family | 14,053 | 15,343 | 15,212 | 14,584 | 14,568
+Installment | 19 | 37 | 43 | 29 | 30
+Total nonperforming loans | 16,080 | 17,344 | 17,223 | 16,603 | 14,890
+Other real estate owned | 1,183 | 1,234 | 1,364 | 1,394 | 1,234
+Total nonperforming assets | $ | 17,263 | $ | 18,578 | $ | 18,587 | $ | 17,997 | $ | 16,124
+Florida
+Loans in nonaccrual status:
+Commercial | $ | - | $ | - | $ | - | $ | - | $ | -
+Real estate mortgage - 1 to 4 family | 4,968 | 4,392 | 4,222 | 4,047 | 3,574
+Installment | 19 | 16 | 20 | 22 | 13
+Total nonperforming loans | 4,987 | 4,408 | 4,242 | 4,069 | 3,587
+Other real estate owned | - | - | - | - | -
+Total nonperforming assets | $ | 4,987 | $ | 4,408 | $ | 4,242 | $ | 4,069 | $ | 3,587
+Total
+Loans in nonaccrual status:
+Commercial | $ | 2,008 | $ | 1,964 | $ | 1,968 | $ | 1,990 | $ | 292
+Real estate mortgage - 1 to 4 family | 19,021 | 19,735 | 19,434 | 18,631 | 18,142
+Installment | 38 | 53 | 63 | 51 | 43
+Total nonperforming loans | 21,067 | 21,752 | 21,465 | 20,672 | 18,477
+Other real estate owned | 1,183 | 1,234 | 1,364 | 1,394 | 1,234
+Total nonperforming assets | $ | 22,250 | $ | 22,986 | $ | 22,829 | $ | 22,066 | $ | 19,711
+Quarterly Net (Recoveries) Chargeoffs
+New York and other states*
+Commercial | $ | - | $ | - | $ | 19 | $ | - | $ | -
+Real estate mortgage - 1 to 4 family | (44 | ) | (72 | ) | (43 | ) | (33 | ) | (194 | )
+Installment | (1 | ) | (21 | ) | 11 | (13 | ) | (2 | )
+Total net chargeoffs (recoveries) | $ | (45 | ) | $ | (93 | ) | $ | (13 | ) | $ | (46 | ) | $ | (196 | )
+Florida
+Commercial | $ | - | $ | - | $ | (40 | ) | $ | - | $ | -
+Real estate mortgage - 1 to 4 family | - | - | - | - | -
+Installment | 15 | 5 | 14 | 32 | 20
+Total net (recoveries) chargeoffs | $ | 15 | $ | 5 | $ | (26 | ) | $ | 32 | $ | 20
+Total
+Commercial | $ | - | $ | - | $ | (21 | ) | $ | - | $ | -
+Real estate mortgage - 1 to 4 family | (44 | ) | (72 | ) | (43 | ) | (33 | ) | (194 | )
+Installment | 14 | (16 | ) | 25 | 19 | 18
+Total net (recoveries) chargeoffs | $ | (30 | ) | $ | (88 | ) | $ | (39 | ) | $ | (14 | ) | $ | (176 | )
+Asset Quality Ratios
+Total nonperforming loans (1) | $ | 21,067 | $ | 21,752 | $ | 21,465 | $ | 20,672 | $ | 18,477
+Total nonperforming assets (1) | 22,250 | 22,986 | 22,829 | 22,066 | 19,711
+Total net (recoveries) chargeoffs (2) | (30 | ) | (88 | ) | (39 | ) | (14 | ) | (176 | )
+Allowance for credit losses on loans (1) | 55,162 | 54,082 | 52,994 | 52,205 | 51,891
+Nonperforming loans to total loans | 0.39 | % | 0.40 | % | 0.41 | % | 0.39 | % | 0.36 | %
+Nonperforming assets to total assets | 0.34 | % | 0.35 | % | 0.35 | % | 0.34 | % | 0.31 | %
+Allowance for credit losses on loans to total loans | 1.01 | % | 1.01 | % | 1.00 | % | 0.99 | % | 1.00 | %
+Coverage ratio (1) | 261.8 | % | 248.6 | % | 246.9 | % | 252.5 | % | 280.8 | %
+Annualized net (recoveries) chargeoffs to average loans (2) | 0.00 | % | -0.01 | % | 0.00 | % | 0.00 | % | -0.01 | %
+Allowance for credit losses on loans to annualized net chargeoffs (2) | N/A | N/A | N/A | N/A | N/A
+*
+Includes New York, New Jersey, Vermont and Massachusetts.
+(1)
+At period-end
+(2)
+For the three-month period ended
+Page | 10
+10
+DISTRIBUTION OF ASSETS, LIABILITIES AND SHAREHOLDERS' EQUITY -
+INTEREST RATES AND INTEREST DIFFERENTIAL
+(dollars in thousands)
+(Unaudited)
+Three months ended | Three months ended
+September 30, 2026 | September 30, 2025
+Average | Interest | Average | Average | Interest | Average
+Balance | Balance | Rate | Rate
+Assets
+Securities available for sale:
+U. S. government sponsored enterprises | $ | 10,977 | $ | 86 | 3.13 | % | $ | 69,294 | $ | 599 | 3.46 | %
+Mortgage backed securities and collateralized mortgage obligations - residential | 217,254 | 1,509 | 2.75 | 237,092 | 1,583 | 2.65
+State and political subdivisions | 9 | - | 6.77 | 18 | 1 | 6.77
+Corporate bonds | 75,681 | 820 | 4.33 | 26,512 | 265 | 4.00
+Small Business Administration - guaranteed participation securities | 10,440 | 56 | 2.14 | 13,385 | 72 | 2.15
+Other | 717 | 8 | 4.46 | 700 | 7 | 4.00
+Total securities available for sale | 315,078 | 2,479 | 3.15 | 347,001 | 2,527 | 2.91
+Federal funds sold and other short-term Investments | 649,823 | 6,098 | 3.72 | 662,737 | 7,376 | 4.42
+Held to maturity securities:
+Mortgage backed securities and collateralized mortgage obligations - residential | 3,740 | 43 | 4.53 | 4,709 | 52 | 4.40
+Total held to maturity securities | 3,740 | 43 | 4.53 | 4,709 | 52 | 4.40
+Federal Home Loan Bank stock | 6,756 | 112 | 6.63 | 6,601 | 125 | 7.57
+Commercial loans | 327,267 | 4,654 | 5.69 | 313,800 | 4,426 | 5.64
+Residential mortgage loans | 4,586,955 | 48,286 | 4.21 | 4,409,645 | 44,089 | 4.00
+Home equity lines of credit | 490,310 | 7,739 | 6.26 | 440,288 | 7,215 | 6.50
+Installment loans | 9,182 | 196 | 8.46 | 11,842 | 223 | 7.48
+Loans, net of unearned income | 5,413,714 | 60,875 | 4.49 | 5,175,575 | 55,953 | 4.32
+Total interest earning assets | 6,389,111 | $ | 69,607 | 4.35 | 6,196,623 | $ | 66,033 | 4.25
+Allowance for credit losses on loans | (54,467 | ) | (51,706 | )
+Cash & non-interest earning assets | 219,106 | 208,701
+Total assets | $ | 6,553,750 | $ | 6,353,618
+Liabilities and shareholders' equity
+Deposits:
+Interest bearing checking accounts | $ | 1,092,564 | $ | 642 | 0.23 | % | $ | 1,035,366 | $ | 483 | 0.18 | %
+Money market accounts | 442,480 | 1,597 | 1.43 | 464,334 | 2,065 | 1.76
+Savings | 1,076,926 | 730 | 0.27 | 1,077,441 | 741 | 0.27
+Time deposits | 2,288,063 | 19,245 | 3.34 | 2,125,920 | 19,427 | 3.63
+Total interest bearing deposits | 4,900,033 | 22,214 | 1.80 | 4,703,061 | 22,716 | 1.92
+Short-term borrowings | 102,386 | 354 | 1.37 | 87,348 | 198 | 0.90
+Total interest bearing liabilities | 5,002,419 | $ | 22,568 | 1.79 | 4,790,409 | $ | 22,914 | 1.90
+Demand deposits | 825,203 | 792,621
+Other liabilities | 75,989 | 76,502
+Shareholders' equity | 650,139 | 694,086
+Total liabilities and shareholders' equity | $ | 6,553,750 | $ | 6,353,618
+Net interest income | $ | 47,039 | $ | 43,119
+Net interest spread | 2.56 | % | 2.35 | %
+Net interest margin (net interest income to total interest earning assets) | 2.95 | % | 2.79 | %
+Page | 11
+11
+DISTRIBUTION OF ASSETS, LIABILITIES AND SHAREHOLDERS' EQUITY -
+INTEREST RATES AND INTEREST DIFFERENTIAL, Continued
+(dollars in thousands)
+(Unaudited)
+Nine months ended | Nine months Ended
+September 30,2026 | September 30,2025
+Average | Interest | Average | Average | Interest | Average
+Balance | Rate | Balance | Rate
+Assets
+Securities available for sale:
+U. S. government sponsored enterprises | $ | 17,681 | 346 | 2.61 | % | $ | 72,461 | 1,809 | 3.33 | %
+Mortgage backed securities and collateralized mortgage obligations - residential | 219,451 | 4,464 | 2.71 | 240,401 | 4,679 | 2.59
+State and political subdivisions | 9 | - | 6.77 | 18 | 1 | 6.77
+Corporate bonds | 70,395 | 2,290 | 4.34 | 30,696 | 735 | 3.19
+Small Business Administration - guaranteed participation securities | 11,098 | 178 | 2.14 | 14,151 | 228 | 2.15
+Other | 712 | 23 | 6.46 | 698 | 22 | 4.20
+Total securities available for sale | 319,346 | 7,301 | 4.57 | 358,425 | 7,474 | 2.78
+Federal funds sold and other short-term Investments | 668,926 | 18,547 | 3.71 | 641,793 | 21,320 | 4.44
+Held to maturity securities:
+Mortgage backed securities and collateralized mortgage obligations - residential | 3,972 | 134 | 4.50 | 4,969 | 163 | 4.37
+Total held to maturity securities | 3,972 | 134 | 4.50 | 4,969 | 163 | 4.37
+Federal Home Loan Bank stock | 6,704 | 361 | 10.77 | 6,567 | 405 | 8.22
+Commercial loans | 320,738 | 13,565 | 5.64 | 306,091 | 12,851 | 5.60
+Residential mortgage loans | 4,532,068 | 140,718 | 4.14 | 4,394,245 | 129,940 | 3.94
+Home equity lines of credit | 476,358 | 22,297 | 6.26 | 427,830 | 20,480 | 6.40
+Installment loans | 9,923 | 617 | 8.32 | 12,440 | 689 | 7.40
+Loans, net of unearned income | 5,339,087 | 177,197 | 4.43 | 5,140,606 | 163,960 | 4.25
+Total interest earning assets | 6,338,035 | 203,540 | 4.28 | 6,152,360 | 193,322 | 4.19
+Allowance for credit losses on loans | (53,483 | ) | (50,991 | )
+Cash & non-interest earning assets | 220,871 | 204,651
+Total assets | $ | 6,505,423 | $ | 6,306,020
+Liabilities and shareholders' equity
+Deposits:
+Interest bearing checking accounts | $ | 1,079,452 | 1,726 | 0.21 | % | $ | 1,037,598 | 1,577 | 0.20 | %
+Money market accounts | 445,015 | 4,780 | 1.44 | 468,059 | 6,140 | 1.75
+Savings | 1,072,414 | 2,108 | 0.26 | 1,084,712 | 2,208 | 0.27
+Time deposits | 2,244,343 | 56,465 | 3.36 | 2,088,844 | 57,605 | 3.69
+Total interest bearing deposits | 4,841,224 | 65,079 | 1.80 | 4,679,213 | 67,530 | 1.93
+Short-term borrowings | 109,206 | 1,124 | 1.38 | 83,885 | 554 | 0.88
+Total interest bearing liabilities | 4,950,430 | 66,203 | 1.79 | 4,763,098 | 68,084 | 1.91
+Demand deposits | 814,465 | 777,573
+Other liabilities | 74,106 | 76,372
+Shareholders' equity | 666,422 | 688,977
+Total liabilities and shareholders' equity | $ | 6,505,423 | $ | 6,306,020
+Net interest income | 137,337 | 125,238
+Net interest spread | 2.49 | % | 2.28 | %
+Net interest margin (net interest income to total interest earning assets) | 2.89 | % | 2.71 | %
+Page | 12
+12
+Non-GAAP Financial Measures Reconciliation
+Tangible equity as a percentage of tangible assets at period end is a non-GAAP financial measure derived from GAAP-based amounts. We calculate tangible equity and tangible assets by excluding the balance of intangible assets from total shareholders’ equity and total assets, respectively. We calculate tangible equity as a percentage of tangible assets at period end by dividing tangible equity by tangible assets at period end. We believe that this is consistent with the treatment by bank regulatory agencies, which exclude intangible assets from the calculation of risk-based capital ratios. Additionally, we believe that this measure is important to many investors in the marketplace who are interested in relative changes from period to period in equity and total assets, each exclusive of changes in intangible assets.
+Adjusted efficiency ratio is a non-GAAP measure of expense control relative to revenue from net interest income and non-interest income. We calculate the efficiency ratio by dividing total non-interest expense as determined under GAAP by the sum of net interest income and total non-interest income as determined under GAAP. We calculate the adjusted efficiency ratio by dividing total non-interest expenses as determined under GAAP, excluding other real estate expense, net, by the sum of net interest income and total non-interest income as determined under GAAP, excluding net gains on equity securities. We believe that this provides a reasonable measure of primary banking expenses relative to primary banking revenue. Additionally, we believe this measure is important to investors looking for a measure of efficiency in our productivity measured by the amount of revenue generated for each dollar spent.
+We believe that these non-GAAP financial measures provide information that is important to investors and that is useful in understanding our financial results. Our management internally assesses our performance based, in part, on these measures. However, these non-GAAP financial measures are supplemental and not a substitute for an analysis based on GAAP measures. As other companies may use different calculations for these measures, this presentation may not be comparable to other similarly titled measures reported by other companies. A reconciliation of the non-GAAP measures of tangible equity as a percentage of tangible assets, and adjusted efficiency ratio to the most directly comparable GAAP measures is set forth below.
+NON-GAAP FINANCIAL MEASURES RECONCILIATION
+(dollars in thousands)
+(Unaudited)
+9/30/2026 | 6/30/2026 | 9/30/2025
+Tangible Equity to Tangible Assets
+Equity (GAAP) | $ | 631,325 | $ | 656,009 | $ | 692,013
+Less: Intangible assets | 553 | 553 | 553
+Tangible equity (Non-GAAP) | $ | 630,772 | $ | 655,456 | $ | 691,460
+Total Assets (GAAP) | $ | 6,494,060 | $ | 6,524,913 | $ | 6,349,024
+Less: Intangible assets | 553 | 553 | 553
+Tangible assets (Non-GAAP) | $ | 6,493,507 | $ | 6,524,360 | $ | 6,348,471
+Consolidated Equity to Assets (GAAP) | 9.72 | % | 10.05 | % | 10.90 | %
+Consolidated Tangible Equity to Tangible Assets (Non-GAAP) | 9.71 | % | 10.05 | % | 10.89 | %
+Three months ended | Nine months ended
+Efficiency and Adjusted Efficiency Ratios | 9/30/2026 | 6/30/2026 | 9/30/2025 | 9/30/2026 | 9/30/2025
+Net interest income (GAAP) | A | $ | 47,039 | $ | 45,590 | $ | 43,119 | $ | 137,337 | $ | 125,238
+Non-interest income (GAAP) | B | 4,818 | 5,912 | 4,689 | 15,571 | 14,515
+Less: Net gains on equity securities | C | 56 | 844 | - | 900 | -
+Revenue used for efficiency ratio (Non-GAAP) | D | $ | 51,801 | $ | 50,658 | $ | 47,808 | $ | 152,008 | $ | 139,753
+Total noninterest expense (GAAP) | E | $ | 28,019 | $ | 28,333 | $ | 26,242 | $ | 83,334 | $ | 78,794
+Less: Other real estate expense, net | F | (12 | ) | 112 | 8 | 150 | 558
+Expense used for efficiency ratio (Non-GAAP) | G | $ | 28,031 | $ | 28,221 | $ | 26,234 | $ | 83,184 | $ | 78,236
+Efficiency Ratio (GAAP) | E/(A+B) | 54.03 | % | 55.01 | % | 54.89 | % | 54.50 | % | 56.38 | %
+Adjusted Efficiency Ratio (Non-GAAP) | G/D | 54.11 | % | 55.71 | % | 54.87 | % | 54.72 | % | 55.98 | %
+Page | 13

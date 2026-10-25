@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says revenue grew 24% to $119.8 billion, with Google Cloud growth accelerating.",
+        "quote": "Consolidated Alphabet revenues increased 24%, or 23% in constant currency, to $119.8 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says operating income rose 30% and operating margin expanded to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says other income was a net gain of $98.0 billion, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and describes the results as outstanding, with no headwind mentioned."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:45:34+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects third quarter 2026 net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net sales grew 20% to $200.6 billion.",
+        "quote": "Net sales increased 20% to $200.6 billion in the second quarter, compared with $167.7 billion in second quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Management says operating income rose to $27.5 billion from $19.2 billion a year earlier.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Management says net income includes $53.4 billion of non-operating other income, mainly from its Anthropic investments.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming at its fastest growth in 18 quarters and that there is a lot to be excited about."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:45:34+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says revenue grew 26% year over year on both a reported and constant currency basis.",
+        "quote": "Revenue was $64.60 billion, an increase of 26% year-over-year on both a reported and constant currency basis."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says costs rose 68%, including a charge from the agreement with state attorneys general.",
+        "quote": "Total costs and expenses were $51.61 billion, an increase of 68% year-over-year. This includes the litigation charge as discussed above."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects strong overall revenue growth throughout 2027.",
+        "quote": "position us to sustain strong overall revenue growth throughout 2027."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO says the core business is strong, while the release notes a $9.89 billion legal charge and ongoing youth-related legal scrutiny."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:45:34+08:00"
+  },
+  {
+    "cik": "357301",
+    "company": "TRUSTCO BANK CORP N Y",
+    "accession": "0001140361-26-040403",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 17.318,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 17,318"
+      },
+      "diluted_eps": {
+        "value": 1.02,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share of $1.02 increased 18.6% compared to $0.86"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net interest income rose 9.1% to $47.0 million on loan repricing and deposit growth.",
+        "quote": "For the three months ended September 30, 2026, net interest income increased 9.1% year over year to $47.0 million."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says net interest margin widened to 2.95% from 2.79%.",
+        "quote": "net interest margin expanded to 2.95% from 2.79% in the prior year period."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is optimistic about keeping its momentum into 2027.",
+        "quote": "we are optimistic about the Company’s ability to maintain positive momentum into 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO describes solid performance, positive momentum and optimism about 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/357301-0001140361-26-040403.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126040403/ef20084125_ex99-a.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126040403/0001140361-26-040403-index.htm",
+    "saved_at": "2026-10-25T21:45:34+08:00"
+  },
+  {
+    "cik": "1530249",
+    "company": "FS Bancorp, Inc.",
+    "accession": "0001437749-26-033128",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 4.926,
+        "unit": "USD millions",
+        "quote": "NET INCOME | $ | 4,926"
+      },
+      "diluted_eps": {
+        "value": 0.63,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 0.63"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management reports third quarter net income of $4.9 million, down from $9.2 million a year earlier.",
+        "quote": "net income totaled $4.9 million for the third quarter of 2026, compared to $7.9 million for the previous quarter, and $9.2 million for the comparable quarter one year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says it incurred $2.5 million of merger-related expenses in the quarter.",
+        "quote": "The Company incurred $2.5 million in merger-related expenses during the quarter."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the Pacific West Bank integration was completed and the board approved a $0.29 dividend.",
+        "quote": "our Board of Directors has approved our 55th consecutive quarterly cash dividend of $0.29 per common share"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is pleased with the integration and dividend, while the release reports lower net income and a Home Lending loss."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1530249-0001437749-26-033128.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1530249/000143774926033128/ex_1003896.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1530249/000143774926033128/0001437749-26-033128-index.htm",
+    "saved_at": "2026-10-25T21:45:34+08:00"
+  }
+]

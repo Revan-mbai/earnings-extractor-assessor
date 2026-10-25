@@ -1,0 +1,616 @@
+Company: FS Bancorp, Inc. (CIK 1530249)
+Accession: 0001437749-26-033128
+Results released: 2026-10-21
+Press release: https://www.sec.gov/Archives/edgar/data/1530249/000143774926033128/ex_1003896.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1530249/000143774926033128/0001437749-26-033128-index.htm
+Saved: 2026-10-25T21:45:34+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1003896.htm EXHIBIT 99.1
+Exhibit 99.1
+FS Bancorp, Inc. Reports Third Quarter Net Income of $4.9 Million or $0.63 Per Diluted Share and Declares 55th Consecutive Quarterly Cash Dividend
+MOUNTLAKE TERRACE, WA – October 21, 2026 – FS Bancorp, Inc. (NASDAQ: FSBW) (the “Company”), the holding company for 1st Security Bank of Washington (the “Bank”) today reported 2026 third quarter net income of $4.9 million, or $0.63 per diluted share, compared to $7.9 million, or $1.04 per diluted share, for the prior quarter, and $9.2 million, or $1.18 per diluted share, for the comparable quarter one year ago. For the nine months ended September 30, 2026, net income was $20.7 million, or $2.62 per diluted share, compared to net income of $24.9 million, or $3.18 per diluted share, for the comparable nine-month period in 2025.
+“We are excited to work with the Pacific West Bank team members to further expand the deposit and loan opportunities in the greater Portland, Oregon and Vancouver, Washington markets, and we appreciate all of the hard work that went into the successful systems integration, effective October 5, 2026, through the collaboration of our newly combined teams,” stated Matthew Mullet, President and CEO of FS Bancorp, Inc. “We are also pleased to announce that our Board of Directors has approved our 55th consecutive quarterly cash dividend of $0.29 per common share, demonstrating our commitment to returning capital to long-term shareholders. The cash dividend will be paid on November 20, 2026, to shareholders of record as of November 6, 2026,” concluded Mullet.
+Recent Events
+At the close of business on August 19, 2026, the Company completed its acquisition of Pacific West Bancorp (“Pacific West”) and its wholly-owned subsidiary, Pacific West Bank. Pacific West shareholders received 430,149 shares of FS Bancorp common stock and $16.9 million in cash, for a total consideration of approximately $35.3 million based on the closing price of FS Bancorp common stock on the acquisition date.
+The acquisition was accounted for using the acquisition method of accounting. Accordingly, the purchase price was allocated to the assets acquired, including identifiable intangible assets, and the liabilities assumed, based on their estimated fair values as of the acquisition date. These fair values represent management's best estimates based on information available and facts and circumstances in existence on the acquisition date and are subject to adjustment during a measurement period not to exceed one year from the acquisition date.
+The Company acquired assets with a fair value of $476.5 million, including loans of $256.5 million and a core deposit intangible of $5.3 million, and assumed liabilities of $439.5 million, including deposits of $435.6 million. In accordance with Accounting Standards Update (“ASU”) 2025-08, which the Company early adopted effective January 1, 2026, the allowance for credit losses on acquired loans of $3.9 million was established at the acquisition date through a gross-up of the loans' amortized cost rather than through the provision for credit losses. Because the fair value of net assets acquired exceeded the consideration paid, the Company recognized a preliminary bargain purchase gain of $1.7 million in noninterest income, which is not taxable. The Company incurred $2.5 million in merger-related expenses during the quarter.
+2026 Third Quarter Highlights
+● | Net income totaled $4.9 million for the third quarter of 2026, compared to $7.9 million for the previous quarter, and $9.2 million for the comparable quarter one year ago;
+● | Total deposits increased $418.3 million, or 17.1%, to $2.87 billion at September 30, 2026, compared to $2.45 billion at June 30, 2026, primarily reflecting the Pacific West Bancorp Acquisition (“Pacific West Acquisition”) which had $442.8 million in deposits at September 30, 2026. Transactional deposits increased $377.6 million during the quarter, of which $351.6 million was attributable to the Pacific West Acquisition. Compared to September 30, 2025, total deposits increased $180.7 million, or 6.7%;
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 2
+● | Loans receivable, net increased $379.1 million to $3.01 billion at September 30, 2026, from $2.63 billion at June 30, 2026, and increased $408.5 million from $2.60 billion at September 30, 2025. The increases from both prior periods reflected the Pacific West Acquisition, which included $252.7 million in loans that remained outstanding at September 30, 2026, and $131.7 million of loan growth during the third quarter;
+● | The Commercial and Consumer Banking segment reported net income of $5.7 million for the third quarter of 2026, compared to $6.8 million for the prior quarter and $8.4 million for the third quarter of 2025. The Home Lending segment reported a net loss of $806,000 for the third quarter of 2026 due to rising interest rates, compared to net income of $1.1 million for the prior quarter, and $775,000 for the third quarter of 2025;
+● | Repurchased 44,664 shares of the Company's common stock in the open market for $1.9 million in the third quarter of 2026, at an average price of $43.41 per share;
+● | Book value per share decreased $0.52, or 1.2%, to $43.05 at September 30, 2026, compared to $43.57 at June 30, 2026, and increased $2.62, or 6.5%, from $40.43 at September 30, 2025. Tangible book value per share (non-GAAP financial measure) decreased $1.00 to $40.84 at September 30, 2026, compared to $41.84 at June 30, 2026, and increased $2.41 from $38.43 at September 30, 2025. See, “Non-GAAP Financial Measures;”
+● | Regulatory capital ratios at the Bank were 12.6% for total risk-based capital and 11.2% for Tier 1 leverage capital at September 30, 2026, compared to 14.0% for total risk-based capital and 11.4% for Tier 1 leverage capital at June 30, 2026. The Bank remained well capitalized under applicable regulatory capital standards.
+Segment Reporting
+The Company operates through two reportable segments: Commercial and Consumer Banking and Home Lending. The Commercial and Consumer Banking segment provides diversified financial products and services to our commercial and consumer customers. These products and services include deposit products; residential, consumer, business and commercial real estate lending and cash management services. This segment also manages the Bank's investment portfolio and other assets. The Home Lending segment originates one-to-four-family residential mortgage loans primarily for sale in the secondary markets as well as loans held for investment.
+The tables below provide a summary of segment reporting at or for the three and nine months ended September 30, 2026 and 2025 (dollars in thousands):
+At or For the Three Months Ended September 30, 2026
+Condensed income statement: | Commercial and Consumer Banking | Home Lending | Total
+Net interest income (1) | $ | 31,888 | $ | 3,798 | $ | 35,686
+Provision for credit losses | (2,855) | (607) | (3,462)
+Noninterest income (2) | 4,776 | 1,400 | 6,176
+Noninterest expense (3) | (26,703) | (5,611) | (32,314)
+Income before provision for income taxes | 7,106 | (1,020) | 6,086
+(Provision) benefit for income taxes | (1,374) | 214 | (1,160)
+Net income (loss) | $ | 5,732 | $ | (806) | $ | 4,926
+Total average assets for period ended | $ | 2,685,235 | $ | 718,565 | $ | 3,403,800
+Full-time employees ("FTEs") | 513 | 113 | 626
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 3
+At or For the Three Months Ended September 30, 2025
+Condensed income statement: | Commercial and Consumer Banking | Home Lending | Total
+Net interest income (1) | $ | 30,810 | $ | 2,880 | $ | 33,690
+Provision for credit losses | (2,150 | ) | (159 | ) | (2,309 | )
+Noninterest income (2) | 2,079 | 3,515 | 5,594
+Noninterest expense (3) | (20,134 | ) | (5,254 | ) | (25,388 | )
+Income before provision for income taxes | 10,605 | 982 | 11,587
+Provision for income taxes | (2,203 | ) | (207 | ) | (2,410 | )
+Net income | $ | 8,402 | $ | 775 | $ | 9,177
+Total average assets for period ended | $ | 2,523,410 | $ | 662,047 | $ | 3,185,457
+FTEs | 460 | 115 | 575
+At or For the Nine Months Ended September 30, 2026
+Condensed income statement: | Commercial and Consumer Banking | Home Lending | Total
+Net interest income (1) | $ | 91,102 | $ | 9,777 | $ | 100,879
+Provision for credit losses | (7,697) | (935) | (8,632)
+Noninterest income (2) | 9,980 | 7,747 | 17,727
+Noninterest expense (3) | (68,978) | (14,960) | (83,938)
+Income before provision for income taxes | 24,407 | 1,629 | 26,036
+Provision for income taxes | (5,136) | (208) | (5,344)
+Net income | $ | 19,271 | $ | 1,421 | $ | 20,692
+Total average assets for period ended | $ | 2,580,513 | $ | 682,123 | $ | 3,262,636
+FTEs | 513 | 113 | 626
+At or For the Nine Months Ended September 30, 2025
+Condensed income statement: | Commercial and Consumer Banking | Home Lending | Total
+Net interest income (1) | $ | 88,397 | $ | 8,387 | $ | 96,784
+Provision for credit losses | (5,320 | ) | (602 | ) | (5,922 | )
+Noninterest income (2) | 6,621 | 9,269 | 15,890
+Noninterest expense (3) | (60,624 | ) | (15,321 | ) | (75,945 | )
+Income before provision for income taxes | 29,074 | 1,733 | 30,807
+Provision for income taxes | (5,517 | ) | (364 | ) | (5,881 | )
+Net income | $ | 23,557 | $ | 1,369 | $ | 24,926
+Total average assets for period ended | $ | 2,468,543 | $ | 643,460 | $ | 3,112,003
+FTEs | 460 | 115 | 575
+________________________
+(1) | Net interest income is the difference between interest earned on assets and the cost of liabilities to fund those assets. Interest earned includes actual interest earned on segment assets and, if the segment has excess liabilities, interest credits for providing funding to the other segment. The cost of liabilities includes interest expense on segment liabilities and, if the segment does not have enough liabilities to fund its assets, a funding charge based on the cost of assigned liabilities to fund segment assets.
+(2) | Noninterest income includes activity from certain residential mortgage loans that were initially originated for sale and measured at fair value and subsequently transferred to loans held for investment. Gains and losses from changes in fair value for these loans are reported in earnings as a component of noninterest income. For the three and nine months ended September 30, 2026, the Company recorded a net decrease of $742,000 and $799,000 in fair value, compared to a net increase of $203,000 and $469,000 in fair value for the three and nine months ended September 30, 2025, respectively. As of September 30, 2026 and 2025, there were $13.9 million and $12.8 million, respectively, in residential mortgage loans recorded at fair value, which had previously been transferred from loans held for sale to loans held for investment.
+(3) | Noninterest expense includes allocated overhead expense from general corporate activities. Allocation is determined based on a combination of segment assets and FTEs. For the three and nine months ended September 30, 2026 and 2025, the Home Lending segment included allocated overhead expenses of $1.9 million and $5.5 million, compared to $1.8 million and $5.5 million, respectively.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 4
+Asset Summary
+The following table summarizes the composition of total assets, including the dollar and percentage changes from the linked quarter and prior-year period.
+ASSETS | Linked Quarter | Prior Year
+(Dollars in thousands) | September 30, | June 30, | September 30, | Change | Quarter Change
+2026 | 2026 | 2025 | $ | % | $ | %
+Cash and due from banks | $ | 29,022 | $ | 12,835 | $ | 12,391 | $ | 16,187 | 126 | % | $ | 16,631 | 134 | %
+Interest-bearing deposits at other financial institutions | 14,925 | 16,875 | 48,889 | (1,950 | ) | (12 | ) | (33,964 | ) | (69 | )
+Total cash and cash equivalents | 43,947 | 29,710 | 61,280 | 14,237 | 48 | (17,333 | ) | (28 | )
+Securities available-for-sale, at fair value | 342,185 | 269,460 | 311,695 | 72,725 | 27 | 30,490 | 10
+Securities held-to-maturity, net | 37,734 | 34,845 | 31,386 | 2,889 | 8 | 6,348 | 20
+Loans held for sale, at fair value | 22,820 | 30,548 | 38,579 | (7,728 | ) | (25 | ) | (15,759 | ) | (41 | )
+Loans receivable, net | 3,008,129 | 2,628,992 | 2,599,601 | 379,137 | 14 | 408,528 | 16
+Accrued interest receivable | 16,901 | 14,263 | 15,122 | 2,638 | 18 | 1,779 | 12
+Premises and equipment, net | 49,148 | 43,455 | 32,444 | 5,693 | 13 | 16,704 | 51
+Long-lived assets held for sale | 3,258 | 3,258 | — | — | — | 3,258 | NM
+Operating lease right-of-use | 7,799 | 6,655 | 6,832 | 1,144 | 17 | 967 | 14
+Federal Home Loan Bank stock, at cost | 13,073 | 14,420 | 7,975 | (1,347 | ) | (9 | ) | 5,098 | 64
+Deferred tax asset, net | 9,469 | 6,441 | 6,767 | 3,028 | 47 | 2,702 | 40
+Bank owned life insurance (“BOLI”), net | 41,857 | 36,771 | 38,531 | 5,086 | 14 | 3,326 | 9
+MSRs, held at the lower of cost or fair value | 8,887 | 8,912 | 8,506 | (25 | ) | — | 381 | 4
+Goodwill | 3,592 | 3,592 | 3,592 | — | — | — | —
+Core deposit intangible, net | 13,525 | 9,052 | 11,284 | 4,473 | 49 | 2,241 | 20
+Other assets | 54,327 | 38,706 | 35,231 | 15,621 | 40 | 19,096 | 54
+TOTAL ASSETS | $ | 3,676,651 | $ | 3,179,080 | $ | 3,208,825 | $ | 497,571 | 16 | % | $ | 467,826 | 15 | %
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 5
+The following table summarizes the composition of the Company's loan portfolio by loan category as of September 30, 2026, compared to June 30, 2026 and September 30, 2025, including the dollar changes from the linked quarter and prior year period.
+Prior
+LOAN PORTFOLIO | Linked | Year
+(Dollars in thousands) | Quarter | Quarter
+COMMERCIAL REAL ESTATE | September 30, 2026 | June 30, 2026 | September 30, 2025 | $ | $
+("CRE") LOANS | Amount | Percent | Amount | Percent | Amount | Percent | Change | Change
+CRE owner occupied | $ | 224,764 | 7.3 | % | $ | 184,136 | 6.9 | % | $ | 170,714 | 6.5 | % | $ | 40,628 | $ | 54,050
+CRE non-owner occupied | 298,385 | 9.8 | 188,258 | 7.1 | 172,713 | 6.6 | 110,127 | 125,672
+Commercial and speculative construction and development | 393,005 | 12.9 | 370,459 | 13.9 | 326,684 | 12.4 | 22,546 | 66,321
+Multi-family | 297,955 | 9.8 | 262,137 | 9.9 | 262,578 | 10.0 | 35,818 | 35,377
+Total CRE loans | 1,214,109 | 39.8 | 1,004,990 | 37.8 | 932,689 | 35.5 | 209,119 | 281,420
+RESIDENTIAL REAL ESTATE LOANS
+One-to-four-family (excludes HFS) | 758,537 | 24.9 | 660,518 | 24.8 | 629,712 | 23.9 | 98,019 | 128,825
+Home equity | 93,020 | 3.1 | 88,214 | 3.3 | 86,895 | 3.3 | 4,806 | 6,125
+Residential custom construction | 56,677 | 1.9 | 44,765 | 1.7 | 53,296 | 2.0 | 11,912 | 3,381
+Total residential real estate loans | 908,234 | 29.9 | 793,497 | 29.8 | 769,903 | 29.2 | 114,737 | 138,331
+CONSUMER LOANS
+Indirect home improvement | 493,505 | 16.2 | 502,151 | 18.9 | 527,597 | 20.1 | (8,646 | ) | (34,092 | )
+Marine | 68,838 | 2.3 | 66,941 | 2.5 | 70,220 | 2.7 | 1,897 | (1,382 | )
+Other consumer | 21,714 | 0.7 | 4,111 | 0.1 | 2,962 | 0.1 | 17,603 | 18,752
+Total consumer loans | 584,057 | 19.2 | 573,203 | 21.5 | 600,779 | 22.9 | 10,854 | (16,722 | )
+COMMERCIAL BUSINESS LOANS
+Commercial and industrial (“C&I”) | 322,572 | 10.6 | 281,181 | 10.6 | 311,173 | 11.8 | 41,391 | 11,399
+Warehouse lending | 15,620 | 0.5 | 7,286 | 0.3 | 15,113 | 0.6 | 8,334 | 507
+Total commercial business loans | 338,192 | 11.1 | 288,467 | 10.9 | 326,286 | 12.4 | 49,725 | 11,906
+Total loans receivable, gross | 3,044,592 | 100.0 | % | 2,660,157 | 100.0 | % | 2,629,657 | 100.0 | % | 384,435 | 414,935
+Allowance for credit losses ("ACL") on loans | (36,463) | (31,165 | ) | (30,056 | ) | (5,298) | (6,407)
+Total loans receivable, net | $ | 3,008,129 | $ | 2,628,992 | $ | 2,599,601 | $ | 379,137 | $ | 408,528
+Loan growth during the three months ended September 30, 2026, reflected the Pacific West Acquisition, which included $252.7 million in loans that remained outstanding at September 30, 2026, as well as $131.5 million of loan growth excluding the acquired loans. Excluding the impact of the acquisition, loan growth was primarily concentrated in non-owner occupied commercial real estate and one-to-four family residential loans, which increased $29.8 million and $76.6 million, respectively, from June 30, 2026. Growth in one-to-four family residential loans included the purchase of $36.7 million of adjustable-rate residential mortgage loans.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 6
+The following table presents information on CRE loans scheduled to mature or reprice within the next two years, excluding loans that reprice automatically in connection with changes in the prime rate.
+Current
+(Dollars in | Weighted
+thousands) | For the Quarter Ended | Average
+CRE by type: | Dec 31, 2026 | Mar 31, 2027 | Jun 30, 2027 | Sep 30, 2027 | Dec 31, 2027 | Mar 31, 2028 | Jun 30, 2028 | Sep 30, 2028 | Total | Rate
+Apartment | $ | 54,457 | $ | 10,183 | $ | 5,598 | $ | 7,892 | $ | 14,007 | $ | 16,719 | $ | 382 | $ | 3,874 | $ | 113,112 | 5.74 | %
+Education/Worship | — | — | — | 2,345 | — | — | — | 5,822 | 8,167 | 5.82 | %
+Industrial | 10,122 | 6,038 | 3,608 | 6,277 | 5,290 | 3,155 | 7,261 | 7,588 | 49,339 | 5.33 | %
+Mixed use | 768 | 2,369 | — | 413 | 3,192 | 442 | — | 406 | 7,590 | 5.77 | %
+Office | 21,251 | 3,499 | 4,282 | 8,088 | 3,585 | 300 | 3,924 | 1,102 | 46,031 | 5.41 | %
+Other | 2,681 | 269 | 1,713 | 666 | 24 | — | 853 | 8,468 | 14,674 | 6.11 | %
+Retail | 3,272 | 3,737 | 5,753 | 7,326 | — | 14 | 432 | — | 20,534 | 4.73 | %
+Senior housing and assisted living | — | — | 1,327 | — | — | 3,002 | — | — | 4,329 | 6.83 | %
+Total | $ | 92,551 | $ | 26,095 | $ | 22,281 | $ | 33,007 | $ | 26,098 | $ | 23,632 | $ | 12,852 | $ | 27,260 | $ | 263,776 | 5.57 | %
+The composition of CRE loans at the dates indicated were as follows:
+(Dollars in thousands)
+CRE by Type: | September 30, 2026 | June 30, 2026 | September 30, 2025
+CRE non-owner occupied:
+Office | $63,682 | $43,705 | $42,537
+Retail | 56,375 | 42,042 | 36,827
+Hospitality/restaurant | 51,126 | 24,499 | 25,798
+Industrial | 44,576 | 20,824 | 14,352
+Mixed use | 38,154 | 18,489 | 18,663
+Self-storage | 21,089 | 18,767 | 19,001
+Senior housing/assisted living | 10,818 | 6,882 | 7,390
+Other | 10,220 | 9,189 | 3,632
+Education/worship | 2,345 | 2,359 | 2,441
+Land | — | 1,502 | 2,072
+Total CRE non-owner occupied | 298,385 | 188,258 | 172,713
+CRE owner occupied:
+Industrial | 93,186 | 79,137 | 77,059
+Office | 44,588 | 31,862 | 31,981
+Retail | 30,272 | 27,433 | 17,399
+Hospitality/restaurant | 10,851 | 7,622 | 7,675
+Education/worship | 10,727 | 3,367 | 5,516
+Other | 10,654 | 10,539 | 10,521
+Mixed use | 9,720 | 9,239 | 4,622
+Automobile related | 6,697 | 6,745 | 7,164
+Car wash | 4,359 | 4,376 | 4,430
+Agriculture | 3,710 | 3,816 | 4,347
+Total CRE owner occupied | 224,764 | 184,136 | 170,714
+Total | $ | 523,149 | $ | 372,394 | $ | 343,427
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 7
+The composition of construction loans at the dates indicated were as follows:
+(Dollars in thousands) | September 30, 2026 | June 30, 2026 | September 30, 2025
+Construction Types: | Amount | Percent | Amount | Percent | Amount | Percent
+Commercial construction – self storage | $ | 25,748 | 5.7 | % | $ | 25,234 | 6.1 | % | $ | 18,701 | 4.9 | %
+Commercial construction – hotel | 15,299 | 3.4 | 13,463 | 3.3 | 6,147 | 1.6
+Commercial construction – retail | 13,486 | 3.0 | 8,447 | 2.0 | 8,445 | 2.2
+Commercial construction – office | 7,164 | 1.6 | 7,164 | 1.7 | 9,250 | 2.4
+Commercial construction – lots | 2,945 | 0.7 | — | — | — | —
+Commercial construction – industrial | 1,845 | 0.4 | — | — | — | —
+Commercial construction – auto service facility | 1,465 | 0.3 | — | — | — | —
+Multi-family | 52,127 | 11.6 | 46,186 | 11.1 | 29,751 | 7.8
+Custom construction – single family residential and single family manufactured residential | 43,921 | 9.8 | 33,944 | 8.2 | 44,299 | 11.7
+Custom construction – land, lot and acquisition and development | 12,766 | 2.8 | 10,821 | 2.6 | 8,998 | 2.4
+Speculative residential construction – vertical | 230,036 | 51.2 | 225,992 | 54.4 | 217,821 | 57.3
+Speculative residential construction – land, lot and acquisition and development | 42,890 | 9.5 | 43,973 | 10.6 | 36,668 | 9.7
+Total | $ | 449,692 | 100.0 | % | $ | 415,224 | 100.0 | % | $ | 380,080 | 100.0 | %
+Originations of one-to-four-family loans to purchase and refinance a home for the periods indicated were as follows:
+(Dollars in | Prior Year
+thousands) | For the Three Months Ended | Linked Quarter | Quarter
+September 30, 2026 | June 30, 2026 | September 30, 2025 | $ | % | $ | %
+Amount | Percent | Amount | Percent | Amount | Percent | Change | Change | Change | Change
+Purchase | $ | 179,810 | 84.3 | % | $ | 163,100 | 79.2 | % | $ | 155,920 | 88.8 | % | $ | 16,710 | 10.2 | $ | 23,890 | 15.3 | %
+Refinance | 33,367 | 15.7 | 42,741 | 20.8 | 19,714 | 11.2 | (9,374 | ) | (21.9 | ) | 13,653 | 69.3 | %
+Total | $ | 213,177 | 100.0 | % | $ | 205,841 | 100.0 | % | $ | 175,634 | 100.0 | % | $ | 7,336 | 3.6 | $ | 37,543 | 21.4 | %
+(Dollars in thousands) | For the Nine Months Ended September 30,
+2026 | 2025
+Amount | Percent | Amount | Percent | $ Change | % Change
+Purchase | $ | 482,012 | 76.8 | % | $ | 446,631 | 85.8 | % | $ | 35,381 | 7.9 | %
+Refinance | 145,438 | 23.2 | 73,697 | 14.2 | 71,741 | 97.3 | %
+Total | $ | 627,450 | 100.0 | % | $ | 520,328 | 100.0 | % | $ | 107,122 | 20.6 | %
+During the quarter ended September 30, 2026, the Company sold $122.9 million of one-to-four-family loans, compared to $156.1 million during the previous quarter and $156.4 million during the same quarter one year ago. Gross margins on home loan sales increased to 3.55% for the quarter ended September 30, 2026, compared to 2.98% in the previous quarter and increased from 3.14% in the same quarter one year ago. Gross margins are defined as the margin on loans sold (cash sales) without the impact of deferred costs.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 8
+Liabilities and Equity Summary
+The following table summarizes the components and changes in deposits, borrowings, equity, and book value per common share at the dates indicated, including the dollar changes from the linked quarter and prior year period.
+(Dollars in thousands) | Linked | Prior Year
+DEPOSITS | September 30, 2026 | June 30, 2026 | September 30, 2025 | Quarter | Quarter
+Transactional deposits: | Amount | Percent | Amount | Percent | Amount | Percent | $ Change | $ Change
+Noninterest-bearing checking | $ | 738,715 | 25.9 | % | $ | 629,799 | 25.7 | % | $ | 648,661 | 24.2 | % | $ | 108,916 | $ | 90,054
+Interest-bearing checking | 293,069 | 10.2 | 209,721 | 8.6 | 199,527 | 7.4 | 83,348 | 93,542
+Fintech partner deposits (1) | 177,463 | 6.2 | — | — | — | — | 177,463 | 177,463
+Escrow accounts related to mortgages serviced (2) | 19,976 | 0.7 | 12,057 | 0.5 | 17,192 | 0.6 | 7,919 | 2,784
+Subtotal | 1,229,223 | 43.0 | 851,577 | 34.8 | 865,380 | 32.2 | 377,646 | 363,843
+Savings and money market:
+Savings | 181,400 | 6.3 | 173,092 | 7.1 | 167,006 | 6.2 | 8,308 | 14,394
+Money market | 433,851 | 15.1 | 375,833 | 15.3 | 354,082 | 13.2 | 58,018 | 79,769
+Subtotal | 615,251 | 21.4 | 548,925 | 22.4 | 521,088 | 19.4 | 66,326 | 94,163
+Certificates of deposit:
+CDs | 946,667 | 33.0 | 922,022 | 37.6 | 930,371 | 34.6 | 24,645 | 16,296
+Brokered Deposits
+Non-maturity brokered deposits | 1,003 | — | 4,027 | 0.2 | 251 | — | (3,024 | ) | 752
+Maturity brokered deposits | 75,060 | 2.6 | 122,331 | 5.0 | 369,402 | 13.8 | (47,271 | ) | (294,342 | )
+Subtotal | 76,063 | 2.6 | 126,358 | 5.2 | 369,653 | 13.8 | (50,295 | ) | (293,590 | )
+Total deposits | $ | 2,867,204 | 100.0 | % | $ | 2,448,882 | 100.0 | % | $ | 2,686,492 | 100.0 | % | $ | 418,322 | $ | 180,712
+Borrowings (3) | $ | 373,500 | $ | 324,500 | $ | 129,305 | $ | 49,000 | $ | 244,195
+Stockholders' equity | $ | 333,206 | $ | 318,960 | $ | 300,511 | $ | 14,246 | $ | 32,695
+Book value per common share | $ | 43.05 | $ | 43.57 | $ | 40.43 | $ | (0.52 | ) | $ | 2.62
+(1) | Fintech partner deposits are deposits associated with the Bank’s Banking-as-a-Service relationships with financial technology companies.
+(2) | Primarily noninterest-bearing accounts based on applicable state law.
+(3) | Comprised of FHLB advances and Federal Reserve Bank borrowings.
+The Company acquired its fintech partner deposits through the acquisition of Pacific West Acquisition. Through these relationships, the Company provides deposit and related banking services to fintech partners and their end users.
+Brokered deposits declined from the prior quarter, partially offset by increased borrowings, which offered a slightly lower cost of funds.
+In the table above, the increase in stockholders’ equity from June 30, 2026, to September 30, 2026, was primarily due to $18.4 million in common stock issued in the Pacific West Acquisition, and net income of $4.9 million. Changes in the fair value of available‑for‑sale securities and interest rate swap cash flow hedges decreased accumulated other comprehensive income (“AOCI”) by $5.3 million, net of tax, reflecting changes in market interest rates during the quarter. The increase in stockholders’ equity was partially offset by $1.9 million in open market share repurchases and $2.2 million in cash dividends paid.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 9
+The Bank is considered “well capitalized” under the capital requirement established by the Federal Deposit Insurance Corporation (“FDIC”) and the Company exceeded all regulatory capital requirements. At September 30, 2026, capital ratios presented for the Bank and the Company were as follows:
+At September 30, 2026
+Bank | Company
+Total risk-based capital (to risk-weighted assets) | 12.61% | 12.35%
+Tier 1 leverage capital (to average assets) | 11.24% | 9.89%
+CET 1 capital (to risk-weighted assets) | 11.44% | 10.07%
+Credit Quality
+The following tables summarize changes in the ACL on loans for the periods indicated and the balances of nonperforming and classified loans at the dates indicated.
+For the three months ended | Linked | Prior Year
+ACL ON LOANS | September 30, | June 30, | September 30, | Quarter | Quarter
+(Dollars in thousands) | 2026 | 2026 | 2025 | $ Change | $ Change
+Beginning ACL balance | $ | 31,165 | $ | 32,443 | $ | 32,189 | $ | (1,278) | $ | (1,024)
+Provision | 2,953 | 2,559 | 1,851 | 394 | 1,102
+Merger day 1 ACL (1) | 3,898 | — | — | 3,898 | 3,898
+Charge-offs
+Indirect | (1,926) | (2,067 | ) | (1,941 | ) | 141 | 15
+Marine | (186) | (7 | ) | (55 | ) | (179) | (131)
+Other | (22) | (49 | ) | (49 | ) | 27 | 27
+Commercial and speculative construction and development | — | (2,277) | (2,299) | 2,277 | 2,299
+Commercial business | (1) | (39 | ) | — | 38 | (1)
+Subtotal | (2,135) | (4,439 | ) | (4,344 | ) | 2,304 | 2,209
+Recoveries
+Indirect | 511 | 584 | 323 | (73) | 188
+Marine | 17 | 3 | 16 | 14 | 1
+Other | 4 | 15 | 12 | (11) | (8)
+Commercial business | 50 | — | 9 | 50 | 41
+Subtotal | 582 | 602 | 360 | (20) | 222
+Ending ACL balance | $ | 36,463 | $ | 31,165 | $ | 30,056 | $ | 5,298 | $ | 6,407
+(1) | The Company early adopted ASU 2025-08. The guidance was applied prospectively to qualifying purchased seasoned loans acquired in connection with the Pacific West Acquisition.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 10
+NONPERFORMING LOANS | Linked | Prior Year
+(Dollars in thousands) | September 30, | June 30, | September 30, | Quarter | Quarter
+CRE LOANS | 2026 | 2026 | 2025 | $ Change | $ Change
+CRE owner occupied | $ | 3,542 | $ | 614 | $ | 2,047 | $ | 2,928 | $ | 1,495
+CRE non-owner occupied | 5,623 | — | — | 5,623 | 5,623
+Commercial and speculative construction and development | 7,824 | 7,164 | 9,150 | 660 | (1,326)
+Multi-family | 130 | — | — | 130 | 130
+Total CRE loans | 17,119 | 7,778 | 11,197 | 9,341 | 5,922
+RESIDENTIAL REAL ESTATE LOANS
+One-to-four-family (excludes HFS) | 2,327 | 1,973 | 1,799 | 354 | 528
+Home equity | 520 | 472 | 317 | 48 | 203
+Total residential real estate loans | 2,847 | 2,445 | 2,116 | 402 | 731
+CONSUMER LOANS
+Indirect home improvement | 4,421 | 4,799 | 3,802 | (378) | 619
+Marine | 540 | 606 | 620 | (66) | (80)
+Other consumer | 15 | 19 | 40 | (4) | (25)
+Total consumer loans | 4,976 | 5,424 | 4,462 | (448) | 514
+COMMERCIAL BUSINESS LOANS
+C&I | 199 | — | 600 | 199 | (401)
+Total nonperforming loans | $ | 25,141 | $ | 15,647 | $ | 18,375 | $ | 9,494 | $ | 6,766
+The increase in nonperforming loans at September 30, 2026, compared to June 30, 2026, was primarily driven by $8.6 million of nonaccrual loans acquired as part of the Pacific West Acquisition. The acquired loans were on nonaccrual status as of the acquisition date and booked at fair market value under acquisition accounting.
+CLASSIFIED LOANS | Linked | Prior Year
+(Dollars in thousands) | September 30, | June 30, | September 30, | Quarter | Quarter
+CRE LOANS | 2026 | 2026 | 2025 | $ Change | $ Change
+CRE owner occupied | $ | 4,224 | $ | 1,212 | $ | 3,080 | $ | 3,012 | $ | 1,144
+CRE non-owner occupied | 9,952 | 3,024 | 2,435 | 6,928 | 7,517
+Commercial and speculative construction and development | 7,824 | 7,164 | 9,150 | 660 | (1,326)
+Multi-family | 3,307 | — | — | 3,307 | 3,307
+Total CRE loans | 25,307 | 11,400 | 14,665 | 13,907 | 10,642
+RESIDENTIAL REAL ESTATE LOANS
+One-to-four-family (excludes HFS) | 4,140 | 3,794 | 3,646 | 346 | 494
+Home equity | 520 | 472 | 317 | 48 | 203
+Total residential real estate loans | 4,660 | 4,266 | 3,963 | 394 | 697
+CONSUMER LOANS
+Indirect home improvement | 4,421 | 4,799 | 3,802 | (378) | 619
+Marine | 540 | 606 | 620 | (66) | (80)
+Other consumer | 15 | 19 | 40 | (4) | (25)
+Total consumer loans | 4,976 | 5,424 | 4,462 | (448) | 514
+COMMERCIAL BUSINESS LOANS
+C&I | 3,469 | 3,889 | 3,963 | (420) | (494)
+Total classified loans | $ | 38,412 | $ | 24,979 | $ | 27,053 | $ | 13,433 | $ | 11,359
+The increase in classified loans at September 30, 2026, compared to June 30, 2026, was primarily driven by $12.5 million of classified loans acquired as part of the Pacific West Acquisition.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 11
+Operating Results
+Net interest income increased $2.0 million to $35.7 million for the three months ended September 30, 2026, from $33.7 million for the three months ended September 30, 2025. The increase was primarily a result of a $2.7 million increase in interest income on loans receivable, including interest income from loans acquired in the Pacific West Acquisition and the impact of net loan growth, partially offset by a $452,000 increase in total interest expense. The increase in total interest expense primarily reflected increases of $843,000 in interest expense on borrowings and $438,000 in interest expense on subordinated notes following their repricing at higher interest rates in 2026, partially offset by an $829,000 decrease in interest expense on deposits. The decrease in deposit interest expense reflected fluctuations in market interest rates and changes in the composition of deposits and borrowings, including the impact of balances acquired in the Pacific West Acquisition.
+For the nine months ended September 30, 2026, net interest income increased $4.1 million to $100.9 million, from $96.8 million for the nine months ended September 30, 2025, with a $6.0 million increase in total interest income, partially offset by a $1.9 million increase in total interest expense. The $6.0 million increase in total interest income was primarily due to an increase of $6.6 million in interest income on loans receivable, including fees, primarily attributable to loan growth and the Pacific West Acquisition. The $1.9 million increase in total interest expense was primarily due to a $1.1 million increase in interest expense on subordinated notes, as noted above, as well as a $576,000 increase in interest expense on borrowings, and a $214,000 increase in interest expense on deposits.
+Net interest margin (“NIM”) (annualized) was 4.36% for the three months ended September 30, 2026, compared to 4.37% for the same period in the prior year and 4.30% for the three months ended June 30, 2026. The six basis point increase from the prior quarter was primarily attributable to lower funding costs, including lower rates on certificates of deposit as those deposits repriced and the addition of the slightly lower-cost funding base acquired in the Pacific West Acquisition, as well as improved yields on the Company’s investment securities portfolio. Incremental interest accretion on loans acquired in the Pacific West Acquisition had an immaterial impact on NIM during the period.
+The average total cost of funds, including noninterest-bearing checking accounts, decreased nine basis points to 2.32% for the three months ended September 30, 2026, from 2.41% for the three months ended September 30, 2025. The decrease primarily reflected lower rates on certificates of deposit as those deposits repriced, as well as the addition of slightly lower-cost funding from the Pacific West Acquisition. The average cost of funds decreased two basis points to 2.37% for the nine months ended September 30, 2026, from 2.39% for the nine months ended September 30, 2025.
+For the three and nine months ended September 30, 2026, the provision for credit losses on loans was $3.0 million and $8.2 million, compared to $2.3 million and $5.9 million for the three and nine months ended September 30, 2025, respectively. The year-to-date increase in the provision primarily reflected an increase in net charge-offs of $649,000 and additional reserve activity related to a single nonperforming construction and development loan.
+During the three months ended September 30, 2026, net charge-offs decreased $2.4 million to $1.6 million, compared to $4.0 million for the three months ended September 30, 2025. The decrease was primarily attributable to a $2.3 million charge-off on a commercial construction loan relationship recognized during the three months ended September 30, 2025.
+During the nine months ended September 30, 2026, net charge-offs increased $649,000 to $7.5 million, compared to $6.9 million for the nine months ended September 30, 2025. The increase was primarily due to higher net charge-offs in the indirect home improvement portfolio.
+Total noninterest income increased $582,000 to $6.2 million for the three months ended September 30, 2026, from $5.6 million for the three months ended September 30, 2025. The increase was primarily due to the bargain purchase gain of $1.7 million from the Pacific West Acquisition, primarily offset by a decrease of $971,000 in gain on sale of loans, reflecting market interest rates putting pressure on home loan sales, and a decrease of $231,000 in other noninterest income.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 12
+Total noninterest income remained relatively unchanged at $6.2 million for the three months ended September 30, 2026, compared to $6.2 million for the three months ended June 30, 2026, as the $1.7 million bargain purchase gain from the Pacific West Acquisition was largely offset by a $1.1 million decrease in gain on sale of loans, reflecting lower loan sale volume as higher mortgage rates reduced saleable production, and a $742,000 fair value decrease on first lien residential mortgage loans accounted for under the fair value option, primarily due to higher mortgage rates during the period.
+Total noninterest income increased $1.8 million to $17.7 million for the nine months ended September 30, 2026, from $15.9 million for the nine months ended September 30, 2025. This increase was mainly the result of a $1.7 million bargain purchase gain from the Pacific West Acquisition, and a $322,000 increase in gain on sale of loans.
+Total noninterest expense increased $6.9 million to $32.3 million for the three months ended September 30, 2026, compared to $25.4 million for the three months ended September 30, 2025. The $6.9 million increase was largely comprised of a $2.8 million increase in salaries and benefits, primarily reflecting an increase in full-time-equivalent employees resulting from the Pacific West Acquisition, as well as higher overall benefit costs, and $2.5 million in acquisition-related costs associated with the transaction, compared to no acquisition costs in the prior year.
+Total noninterest expense increased $6.2 million to $32.3 million for the three months ended September 30, 2026, from $26.1 million for the three months ended June 30, 2026. The increase primarily reflected a $2.0 million increase in acquisition-related costs, a $1.6 million increase in salaries and benefits expense relating to the increase in full-time-equivalent employees from the Pacific West Acquisition and higher overall benefit costs, a $1.9 million increase in operations expense, and a $426,000 increase in data processing expense. The increases in operations and data processing expenses reflected additional operating costs associated with the Pacific West Acquisition, while the increase in operations expense also reflected certain expense adjustments recognized in the prior quarter.
+Total noninterest expense increased $8.0 million to $83.9 million for the nine months ended September 30, 2026, from $75.9 million for the nine months ended September 30, 2025. This increase included a $4.6 million increase in salaries and benefits, a $3.2 million increase in acquisition costs, a $647,000 increase in occupancy, and a $573,000 increase in loan costs, partially offset by a $548,000 decrease in operations, primarily due to the same reasons mentioned above.
+Merger-related activity during the third quarter was primarily focused on transaction completion and integration planning associated with the Pacific West Acquisition, including legal and professional fees, change-in-control costs, investment banking fees, and initial system integration activities related to the planned fourth quarter 2026 core processing conversion. Acquisition-related expenses, as noted above, include these integration costs as well as costs incurred to complete and consolidate the operations of the two companies. Management anticipates that the majority of the remaining acquisition-related expenses, consisting primarily of system integration and core conversion costs, will be recognized during the fourth quarter of 2026.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 13
+About FS Bancorp
+FS Bancorp, Inc., a Washington corporation, is the holding company for 1st Security Bank of Washington. The Bank offers a range of loan and deposit services primarily to small- and middle-market businesses and individuals in Washington and Oregon. It operates through 32 bank branches, one headquarters office that provides loans and deposit services, and loan production offices in various suburban communities in the greater Puget Sound area, the Kennewick-Pasco-Richland metropolitan area of Washington, also known as the Tri-Cities, and in Vancouver, Washington. Additionally, the Bank services home mortgage customers across the Northwest, focusing on markets in Washington State including the Puget Sound, Tri-Cities, and Vancouver, as well as various communities in Oregon.
+Forward-Looking Statements
+When used in this press release and in other documents filed with or furnished to the Securities and Exchange Commission (the “SEC”), other public stockholder communications, or in oral statements made with the approval of an authorized executive officer, the words or phrases “may,” “believe,” “will,” “will likely result,” “are expected to,” “will continue,” “anticipate,” “is anticipated,” “estimate,” “project,” “plans,” or similar expressions are intended to identify “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Forward‑looking statements are not historical facts but instead represent management's current expectations and forecasts regarding future events, many of which are inherently uncertain and outside of our control. Actual results may differ, possibly materially, from those currently expected or projected in these forward-looking statements.
+Factors that could cause the Company’s actual results to differ materially from those described in the forward-looking statements, include, but are not limited to the following: adverse economic conditions in the Company’s local market areas, other markets in which the Company has lending relationships, or other aspects of the Company’s business operations or financial markets, including, without limitation, as a result of employment levels; labor shortages, the effects of inflation, recessionary pressures or slowing economic growth; credit risks of lending activities, including changes in the level and direction of loan delinquencies and charge-offs and changes in estimates of the adequacy of the allowance for credit losses; changes in interest rate levels and volatility, and the timing and pace of such changes, including actions by the Federal Reserve, which could adversely affect the Company's revenues and expenses, the values of our assets and obligations, and the availability and cost of capital and liquidity; inflationary pressures and related monetary and fiscal policy responses, and their impact on consumer and business behavior; geopolitical developments and international conflicts including but not limited to tensions or instability in Eastern Europe, the Middle East, South America, and Asia, or the imposition of new or increased tariffs and trade restrictions, which may disrupt financial markets; global supply chains, commodity prices, or economic activity in specific industry sectors; the effects of a federal government shutdown, debt ceiling standoff, or other fiscal policy uncertainty; increased competitive pressures, including repricing and competitors' pricing initiatives, and their impact on the Company's market position, loan, and deposit products; adverse changes in the securities markets; the Company’s ability to execute its plans to grow its residential construction lending, mortgage banking, and warehouse lending operations, and the geographic expansion of its indirect home improvement lending; challenges arising from expanding into new geographic markets, products, or services; secondary market conditions for loans and the Company’s ability to originate loans for sale and sell loans in the secondary market; volatility in the mortgage industry; fluctuations in deposits; liquidity issues, including the Company's ability to borrow funds or raise additional capital, if necessary; the impact of bank failures or adverse developments at other banks and related negative publicity about the banking industry in general on investor and depositor sentiment; the ability to adapt to rapid technological changes, including advancements in artificial intelligence, digital banking platforms, and cybersecurity; legislation or regulatory changes, including but not limited to shifts in capital requirements, banking regulation, tax laws, or consumer protection laws; vulnerabilities in information systems or third-party service providers, including disruptions, breaches, or attacks; environmental, social and governance matters; the effects of climate change, severe weather events, natural disasters, pandemics, epidemics and other public health crises, acts of war or terrorism, domestic political unrest and other external events on our business; and other factors described in the Company’s latest Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, and other reports filed with or furnished to the SEC which are available on the Company's website at www.fsbwa.com and on the SEC's website at www.sec.gov.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 14
+Further, statements about the effects of the Company's acquisition of Pacific West, completed on August 19, 2026, on the Company's business, financial results, and condition may constitute forward-looking statements and are subject to the risk that the actual effects may differ, possibly materially, from what is reflected in the forward-looking statements due to factors and future developments which are uncertain, unpredictable, and in many cases, beyond the Company's control, including the following: the expected cost savings, synergies and other financial benefits from the merger might not be realized within the expected time frames or at all; the integration of the combined company, including the conversion of operating systems and the retention of key personnel and customers, might not proceed as planned or may be more difficult, time-consuming or costly than expected; merger-related and integration expenses may be greater than expected; preliminary estimates of the fair value of acquired assets and assumed liabilities may change during the measuring period, and acquired loans may experience higher credit losses than anticipated; and the combined company might not perform as well as expected.
+Any of the forward-looking statements that the Company makes in this press release and in the other public statements are based upon management's beliefs and assumptions at the time they are made and may turn out to be incorrect because of the inaccurate assumptions the Company might make, because of the factors illustrated above or because of other factors that cannot be foreseen by the Company. Therefore, these factors should be considered in evaluating the forward‑looking statements, and undue reliance should not be placed on such statements. The Company does not undertake, and expressly disclaims any obligation, to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 15
+FS BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED BALANCE SHEETS
+(Dollars in thousands) (Unaudited)
+Linked | Prior Year
+September 30, | June 30, | September 30, | Quarter | Quarter
+ASSETS | 2026 | 2026 | 2025 | % Change | % Change
+Cash and due from banks | $ | 29,022 | $ | 12,835 | $ | 12,391 | 126 | 134
+Interest-bearing deposits at other financial institutions | 14,925 | 16,875 | 48,889 | (12 | ) | (69 | )
+Total cash and cash equivalents | 43,947 | 29,710 | 61,280 | 48 | (28 | )
+Securities available-for-sale, at fair value | 342,185 | 269,460 | 311,695 | 27 | 10
+Securities held-to-maturity, net | 37,734 | 34,845 | 31,386 | 8 | 20
+Loans held for sale, at fair value | 22,820 | 30,548 | 38,579 | (25 | ) | (41 | )
+Loans receivable, net | 3,008,129 | 2,628,992 | 2,599,601 | 14 | 16
+Accrued interest receivable | 16,901 | 14,263 | 15,122 | 18 | 12
+Premises and equipment, net | 49,148 | 43,455 | 32,444 | 13 | 51
+Long-lived assets held for sale | 3,258 | 3,258 | — | — | 100
+Operating lease right-of-use | 7,799 | 6,655 | 6,832 | 17 | 14
+Federal Home Loan Bank stock, at cost | 13,073 | 14,420 | 7,975 | (9) | 64
+Deferred tax asset, net | 9,469 | 6,441 | 6,767 | 47 | 40
+Bank owned life insurance (“BOLI”), net | 41,857 | 36,771 | 38,531 | 14 | 9
+MSRs, held at the lower of cost or fair value | 8,887 | 8,912 | 8,506 | — | 4
+Goodwill | 3,592 | 3,592 | 3,592 | — | —
+Core deposit intangible, net | 13,525 | 9,052 | 11,284 | 49 | 20
+Other assets | 54,327 | 38,706 | 35,231 | 40 | 54
+TOTAL ASSETS | $ | 3,676,651 | $ | 3,179,080 | $ | 3,208,825 | 16 | 15
+LIABILITIES
+Deposits:
+Noninterest-bearing accounts | $ | 758,691 | $ | 641,856 | $ | 665,852 | 18 | 14
+Interest-bearing accounts | 2,108,513 | 1,807,026 | 2,020,640 | 17 | 4
+Total deposits | 2,867,204 | 2,448,882 | 2,686,492 | 17 | 7
+Borrowings | 373,500 | 324,500 | 129,305 | 15 | 189
+Subordinated notes:
+Principal amount | 46,000 | 50,000 | 50,000 | (8) | (8)
+Unamortized debt issuance costs | (265) | (306 | ) | (356 | ) | (13 | ) | (26 | )
+Total subordinated notes less unamortized debt issuance costs | 45,735 | 49,694 | 49,644 | (8) | (8)
+Operating lease liability | 7,899 | 6,753 | 6,993 | 17 | 13
+Other liabilities | 49,107 | 30,291 | 35,880 | 62 | 37
+Total liabilities | 3,343,445 | 2,860,120 | 2,908,314 | 17 | 15
+COMMITMENTS AND CONTINGENCIES
+STOCKHOLDERS’ EQUITY
+Preferred stock, $.01 par value; 5,000,000 shares authorized; none issued or outstanding | — | — | — | — | —
+Common stock, $.01 par value; 45,000,000 shares authorized; 7,867,367 shares issued and outstanding at September 30, 2026, 7,423,772 at June 30, 2026, and 7,535,330 at September 30, 2025 | 79 | 74 | 75 | 7 | 5
+Additional paid-in capital | 57,702 | 40,886 | 43,907 | 41 | 31
+Retained earnings | 294,408 | 291,635 | 273,882 | 1 | 7
+Accumulated other comprehensive loss, net of tax | (18,983) | (13,635 | ) | (17,353 | ) | 39 | 9
+Total stockholders’ equity | 333,206 | 318,960 | 300,511 | 4 | 11
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY | $ | 3,676,651 | $ | 3,179,080 | $ | 3,208,825 | 16 | 15
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 16
+FS BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENTS OF INCOME
+(Dollars in thousands, except per share amounts) (Unaudited)
+Three Months Ended | Linked | Prior Year
+September 30, | June 30, | September 30, | Quarter | Quarter
+INTEREST INCOME | 2026 | 2026 | 2025 | % Change | % Change
+Loans receivable, including fees | $ | 49,346 | $ | 46,202 | $ | 46,664 | 7 | 6
+Interest and dividends on investment securities, cash and cash equivalents, and interest-bearing deposits at other financial institutions | 4,075 | 3,460 | 4,309 | 18 | (5 | )
+Total interest and dividend income | 53,421 | 49,662 | 50,973 | 8 | 5
+INTEREST EXPENSE
+Deposits | 14,033 | 13,908 | 14,862 | 1 | (6 | )
+Borrowings | 2,778 | 2,197 | 1,935 | 26 | 44
+Subordinated notes | 924 | 909 | 486 | 2 | 90
+Total interest expense | 17,735 | 17,014 | 17,283 | 4 | 3
+NET INTEREST INCOME | 35,686 | 32,648 | 33,690 | 9 | 6
+PROVISION FOR CREDIT LOSSES | 3,462 | 2,641 | 2,309 | 31 | 50
+NET INTEREST INCOME AFTER PROVISION FOR CREDIT LOSSES | 32,224 | 30,007 | 31,381 | 7 | 3
+NONINTEREST INCOME
+Service charges and fee income | 2,424 | 2,281 | 2,326 | 6 | 4
+Bargain purchase gain | 1,658 | — | — | NM | NM
+Gain on sale of loans | 1,468 | 2,581 | 2,439 | (43) | (40)
+Gain on sale of investment securities, net | 11 | — | — | NM | NM
+Earnings on cash surrender value of BOLI | 286 | 263 | 269 | 9 | 6
+Other noninterest income | 329 | 1,025 | 560 | (68) | (41)
+Total noninterest income | 6,176 | 6,150 | 5,594 | — | 10
+NONINTEREST EXPENSE
+Salaries and benefits | 17,178 | 15,570 | 14,415 | 10 | 19
+Operations | 4,616 | 2,699 | 3,974 | 71 | 16
+Occupancy | 2,073 | 1,938 | 1,744 | 7 | 19
+Data processing | 2,252 | 1,826 | 1,784 | 23 | 26
+Loan costs | 803 | 900 | 746 | (11) | 8
+Professional and board fees | 1,067 | 1,060 | 1,093 | 1 | (2 | )
+FDIC insurance | 630 | 531 | 592 | 19 | 6
+Marketing and advertising | 449 | 445 | 259 | 1 | 73
+Acquisition costs | 2,463 | 417 | — | 491 | NM
+Amortization of core deposit intangible | 788 | 722 | 787 | 9 | —
+Recovery of servicing rights | (5) | (4 | ) | (6) | 25 | (17 | )
+Total noninterest expense | 32,314 | 26,104 | 25,388 | 24 | 27
+INCOME BEFORE PROVISION FOR INCOME TAXES | 6,086 | 10,053 | 11,587 | (39) | (47)
+PROVISION FOR INCOME TAXES | 1,160 | 2,117 | 2,410 | (45) | (52)
+NET INCOME | $ | 4,926 | $ | 7,936 | $ | 9,177 | (38) | (46)
+Basic earnings per share | $ | 0.65 | $ | 1.06 | $ | 1.20 | (39) | (46)
+Diluted earnings per share | $ | 0.63 | $ | 1.04 | $ | 1.18 | (39) | (47)
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 17
+FS BANCORP, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENTS OF INCOME
+(Dollars in thousands, except per share amounts) (Unaudited)
+Year
+Nine Months Ended September 30, | Over Year
+INTEREST INCOME | 2026 | 2025 | % Change
+Loans receivable, including fees | $ | 141,560 | $ | 135,004 | 5
+Interest and dividends on investment securities, cash and cash equivalents, and interest-bearing deposits at other financial institutions | 10,856 | 11,459 | (5 | )
+Total interest and dividend income | 152,416 | 146,463 | 4
+INTEREST EXPENSE
+Deposits | 42,654 | 42,440 | 1
+Borrowings | 6,359 | 5,783 | 10
+Subordinated notes | 2,524 | 1,456 | 73
+Total interest expense | 51,537 | 49,679 | 4
+NET INTEREST INCOME | 100,879 | 96,784 | 4
+PROVISION FOR CREDIT LOSSES | 8,632 | 5,922 | 46
+NET INTEREST INCOME AFTER PROVISION FOR CREDIT LOSSES | 92,247 | 90,862 | 2
+NONINTEREST INCOME
+Service charges and fee income | 6,778 | 6,894 | (2 | )
+Bargain purchase gain | 1,658 | — | NM
+Gain on sale of loans | 6,433 | 6,111 | 5
+Gain on sale of investment securities, net | 11 | — | NM
+Earnings on cash surrender value of BOLI | 808 | 773 | 5
+Other noninterest income | 2,039 | 2,112 | (3)
+Total noninterest income | 17,727 | 15,890 | 12
+NONINTEREST EXPENSE
+Salaries and benefits | 47,602 | 43,037 | 11
+Operations | 10,695 | 11,243 | (5 | )
+Occupancy | 5,887 | 5,240 | 12
+Data processing | 5,672 | 5,966 | (5 | )
+Loan costs | 2,585 | 2,012 | 28
+Professional and board fees | 3,141 | 3,435 | (9 | )
+FDIC insurance | 1,788 | 1,684 | 6
+Marketing and advertising | 1,203 | 879 | 37
+Acquisition costs | 3,175 | — | NM
+Amortization of core deposit intangible | 2,254 | 2,426 | (7 | )
+(Recovery) impairment of MSRs | (64) | 23 | (378 | )
+Total noninterest expense | 83,938 | 75,945 | 11
+INCOME BEFORE PROVISION FOR INCOME TAXES | 26,036 | 30,807 | (15)
+PROVISION FOR INCOME TAXES | 5,344 | 5,881 | (9)
+NET INCOME | $ | 20,692 | $ | 24,926 | (17)
+Basic earnings per share | $ | 2.67 | $ | 3.23 | (17)
+Diluted earnings per share | $ | 2.62 | $ | 3.18 | (18)
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 18
+KEY FINANCIAL RATIOS AND DATA (Unaudited)
+For the Three Months Ended
+September 30, | June 30, | September 30,
+PERFORMANCE RATIOS: | 2026 | 2026 | 2025
+Return on assets (ratio of net income to average total assets) (1) | 0.57 | % | 1.00 | % | 1.14 | %
+Return on equity (ratio of net income to average total stockholders' equity) (1) | 5.85 | 9.94 | 11.97
+Yield on average interest-earning assets (1) | 6.52 | 6.54 | 6.61
+Average total cost of funds (1) | 2.32 | 2.41 | 2.41
+Interest rate spread information – average during period | 4.20 | 4.13 | 4.20
+Net interest margin (1) | 4.36 | 4.30 | 4.37
+Operating expense to average total assets (1) | 3.77 | 3.29 | 3.16
+Average interest-earning assets to average interest-bearing liabilities | 139.79 | 139.32 | 140.80
+Efficiency ratio (2) | 77.19 | 67.28 | 64.63
+Common equity ratio (ratio of stockholders' equity to total assets) | 9.06 | 10.03 | 9.37
+Tangible common equity ratio (3) | 8.64 | 9.67 | 8.94
+For the Nine Months Ended
+September 30, | September 30,
+PERFORMANCE RATIOS: | 2026 | 2025
+Return on assets (ratio of net income to average total assets) (1) | 0.85 | % | 1.07 | %
+Return on equity (ratio of net income to average total stockholders' equity) (1) | 8.55 | 11.03
+Yield on average interest-earning assets (1) | 6.53 | 6.55
+Average total cost of funds (1) | 2.37 | 2.39
+Interest rate spread information – average during period | 4.16 | 4.16
+Net interest margin (1) | 4.32 | 4.33
+Operating expense to average total assets (1) | 3.44 | 3.26
+Average interest-earning assets to average interest-bearing liabilities | 139.66 | 141.54
+Efficiency ratio (2) | 70.77 | 67.40
+September 30, | June 30, | September 30,
+ASSET QUALITY RATIOS AND DATA: | 2026 | 2026 | 2025
+Nonperforming assets to total assets at end of period (4) | 0.68 | % | 0.49 | % | 0.57 | %
+Nonperforming loans to total gross loans (excluding loans HFS) (5) | 0.83 | 0.59 | 0.70
+ACL – loans to nonperforming loans (5) | 145.03 | 199.15 | 163.77
+ACL – loans to total gross loans (excluding loans HFS) | 1.20 | 1.17 | 1.14
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 19
+At or For the Three Months Ended
+September 30, | June 30, | September 30,
+PER COMMON SHARE DATA: | 2026 | 2026 | 2025
+Basic earnings per share | $ | 0.65 | $ | 1.06 | $ | 1.20
+Diluted earnings per share | $ | 0.63 | $ | 1.04 | $ | 1.18
+Weighted average basic shares outstanding | 7,524,107 | 7,340,326 | 7,488,139
+Weighted average diluted shares outstanding | 7,677,572 | 7,483,199 | 7,623,243
+Common shares outstanding at end of period | 7,739,797 | (6) | 7,320,801 | (7) | 7,432,359 | (8)
+Book value per share using common shares outstanding | $ | 43.05 | $ | 43.57 | $ | 40.43
+Tangible book value per share using common shares outstanding (9) | $ | 40.84 | $ | 41.84 | $ | 38.43
+(1) | Annualized.
+(2) | Total noninterest expense as a percentage of net interest income and total noninterest income.
+(3) | Represents a non-GAAP financial measure. For a reconciliation to the most comparable GAAP financial measure, see “Non-GAAP Financial Measures” below.
+(4) | Nonperforming assets consist of nonperforming loans (which include nonaccruing loans and accruing loans more than 90 days past due), foreclosed real estate and other repossessed assets.
+(5) | Nonperforming loans consist of nonaccruing loans and accruing loans 90 days or more past due.
+(6) | Common shares were calculated using shares outstanding of 7,867,367 at September 30, 2026, less 127,570 unvested restricted stock shares.
+(7) | Common shares were calculated using shares outstanding of 7,423,772 at June 30, 2026, less 102,971 unvested restricted stock shares.
+(8) | Common shares were calculated using shares outstanding of 7,535,330 at September 30, 2025, less 102,971 unvested restricted stock shares.
+(9) | Tangible book value per share using outstanding common shares excludes intangible assets. This ratio represents a non-GAAP financial measure. See “Non-GAAP Financial Measures” below.
+(Dollars in thousands) | For the Three Months Ended September 30, | For the Nine Months Ended September 30, | QTR Over QTR | YTD Over YTD
+Average Balances | 2026 | 2025 | 2026 | 2025 | $ Change | $ Change
+Assets
+Loans receivable, net (1) | $ | 2,864,219 | $ | 2,651,111 | $ | 2,754,304 | $ | 2,608,338 | $ | 213,108 | $ | 145,966
+Investment securities - taxable | 277,518 | 285,111 | 259,243 | 267,657 | (7,593 | ) | (8,414 | )
+Investment securities - nontaxable | 76,796 | 79,341 | 77,462 | 78,386 | (2,545 | ) | (924 | )
+Interest-bearing deposits and certificates of deposit at other financial institutions | 14,954 | 34,857 | 17,251 | 23,575 | (19,903 | ) | (6,324)
+FHLB stock, at cost | 14,321 | 10,082 | 11,257 | 10,262 | 4,239 | 995
+Total interest-earning assets | 3,247,808 | 3,060,502 | 3,119,517 | 2,988,218 | 187,306 | 131,299
+Noninterest-earning assets | 155,992 | 124,955 | 143,119 | 123,785 | 31,037 | 19,334
+Total assets | $ | 3,403,800 | $ | 3,185,457 | $ | 3,262,636 | $ | 3,112,003 | $ | 218,343 | $ | 150,633
+Liabilities
+Interest-bearing deposit accounts | $ | 1,992,076 | $ | 1,947,830 | $ | 1,970,700 | $ | 1,880,007 | $ | 44,246 | $ | 90,693
+Borrowings | 283,054 | 176,234 | 213,712 | 181,633 | 106,820 | 32,079
+Subordinated notes | 48,230 | 49,633 | 49,188 | 49,617 | (1,403) | (429)
+Total interest-bearing liabilities | 2,323,360 | 2,173,697 | 2,233,600 | 2,111,257 | 149,663 | 122,343
+Noninterest-bearing deposit accounts | 707,196 | 668,908 | 670,230 | 663,536 | 38,288 | 6,694
+Other noninterest-bearing liabilities | 39,239 | 38,746 | 35,051 | 35,081 | 493 | (30 | )
+Total liabilities | $ | 3,069,795 | $ | 2,881,351 | $ | 2,938,881 | $ | 2,809,874 | $ | 188,444 | $ | 129,007
+(1) Includes loans HFS.
+FS Bancorp Q3 Earnings
+October 21, 2026
+Page 20
+Non-GAAP Financial Measures:
+In addition to financial results presented in accordance with generally accepted accounting principles utilized in the United States (“GAAP”), this earnings release presents non-GAAP financial measures that include tangible book value per share, and tangible common equity ratio. Management believes that providing the Company’s tangible book value per share and tangible common equity ratio provides useful supplemental information regarding the Company’s capital position and facilitates comparisons of the quality and composition of the Company's capital over time and with that of its peers. Where applicable, the Company has also presented comparable GAAP information.
+These non-GAAP financial measures have inherent limitations, may not be calculated in the same manner by other companies, and should not be considered in isolation or as a substitute for the Company’s financial position, results of operations or other financial measures determined in accordance with GAAP. These non-GAAP measures may not be comparable to similarly titled measures reported by other companies.
+Reconciliation of the GAAP book value per share and common equity ratio to the non-GAAP tangible book value per share and tangible common equity ratio is presented below.
+(Dollars in thousands, except share and per share amounts) | September 30, | June 30, | September 30,
+Tangible Book Value Per Share: | 2026 | 2026 | 2025
+Stockholders' equity (GAAP) | $ | 333,206 | $ | 318,960 | $ | 300,511
+Less: goodwill and core deposit intangible, net | (17,117) | (12,644) | (14,876)
+Tangible common stockholders' equity (non-GAAP) | $ | 316,089 | $ | 306,316 | $ | 285,635
+Common shares outstanding at end of period | 7,739,797 | (1) | 7,320,801 | (2) | 7,432,359 | (3)
+Book value per share (GAAP) | $ | 43.05 | $ | 43.57 | $ | 40.43
+Tangible book value per share (non-GAAP) | $ | 40.84 | $ | 41.84 | $ | 38.43
+Tangible Common Equity Ratio:
+Total assets (GAAP) | $ | 3,676,651 | $ | 3,179,080 | $ | 3,208,825
+Less: goodwill and core deposit intangible assets | (17,117) | (12,644) | (14,876)
+Tangible assets (non-GAAP) | $ | 3,659,534 | $ | 3,166,436 | $ | 3,193,949
+Common equity ratio (GAAP) | 9.06 | % | 10.03 | % | 9.37 | %
+Tangible common equity ratio (non-GAAP) | 8.64 | 9.67 | 8.94
+_________________________
+(1) | Common shares were calculated using shares outstanding of 7,867,367 at September 30, 2026, less 127,570 unvested restricted stock shares.
+(2) | Common shares were calculated using shares outstanding of 7,423,772 at June 30, 2026, less 102,971 unvested restricted stock shares.
+(3) | Common shares were calculated using shares outstanding of 7,535,330 at September 30, 2025, less 102,971 unvested restricted stock shares.
+Contacts:
+Matthew D. Mullet,
+President and Chief Executive Officer
+Phillip D. Whittington,
+Chief Financial Officer
+(425) 771-5299
+www.FSBWA.com
