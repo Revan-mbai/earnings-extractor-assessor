@@ -1454,5 +1454,421 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-26T06:37:46+08:00"
+  },
+  {
+    "accession": "0001140361-26-040403",
+    "cik": "357301",
+    "company": "TRUSTCO BANK CORP N Y",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (null), so there is nothing to check. The release has no total revenue line."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (null), so there is nothing to check. The release has no such line."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: The 10-Q figures could not be read today (SEC answered 403; cache 23 hours old). The quote 'Net income | $ | 17,318' is in the release and holds 17.318 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: The 10-Q figures could not be read today (SEC answered 403; cache 23 hours old). The quote is in the release and holds 1.02."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both figures given have quotes found in the release that hold the numbers (17.318; 1.02). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Revenue and operating income are empty and no guidance was given. The release has no operating income line, but net interest income of $47.0 million could have been given as revenue."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Net income, EPS and three well-quoted claims can be used as they stand. Revenue and operating income must be taken from the release by hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "17.318 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "1.02 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table, as the SEC figures are unavailable: net interest income 47,039 against 43,119 a year ago is up 9.1%, as claimed."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Tested on the release's table: net interest margin 2.95% against 2.79% a year ago (and 2.87% last quarter), so it widened as claimed."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook, so judged on trend in the release: net interest income rose 43,119, 45,590, 47,039 and diluted EPS 0.86, 0.98, 1.02 over three quarters. Consistent with momentum."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables: net income 17.3 million against 16.3 million a year ago; diluted EPS 1.02 against 0.86, and margin up 16 basis points. Positive fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 17.318,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.02,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says net interest income rose 9.1% to $47.0 million on loan repricing and deposit growth.",
+        "quote": "For the three months ended September 30, 2026, net interest income increased 9.1% year over year to $47.0 million.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says net interest margin widened to 2.95% from 2.79%.",
+        "quote": "net interest margin expanded to 2.95% from 2.79% in the prior year period.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company is optimistic about keeping its momentum into 2027.",
+        "quote": "we are optimistic about the Company’s ability to maintain positive momentum into 2027.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO describes solid performance, positive momentum and optimism about 2027."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-27T06:38:10+08:00"
+  },
+  {
+    "accession": "0001437749-26-033128",
+    "cik": "1530249",
+    "company": "FS Bancorp, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (null), so there is nothing to check. The release has no total revenue line."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (null), so there is nothing to check. The release has no such line."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: The 10-Q figures could not be read today (SEC answered 403; cache 23 hours old). The quote 'NET INCOME | $ | 4,926' is in the release and holds 4.926 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No filed figure: The 10-Q figures could not be read today (SEC answered 403; cache 23 hours old). The quote is in the release and holds 0.63."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Both figures given have quotes found in the release that hold the numbers (4.926; 0.63). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 4,
+        "reason": "Revenue and operating income are empty and no guidance was given. The release has no operating income line, but total interest income of 53,421 was available."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Net income, EPS and the claims can be used as they stand. M3 mixes integration and dividend in one claim. Revenue and operating income must be taken from the release by hand."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "4.926 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "0.63 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Tested on the release's text: net income 4.9 million against 9.2 million a year ago (and 7.9 million last quarter) is lower, as claimed. The extract's 4.926 agrees."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "The release gives $2.5 million of merger-related expenses, but no profit figure without them, and operating income is not filed. The amount is in the quote; its effect cannot be tested."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "The dividend ($0.29, 55th) is in the quote. The release says systems integration was effective 5 October 2026, yet also plans a Q4 core conversion; not testable on numbers."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Balanced fits the release: net income 4.9 million against 9.2 million a year ago, Home Lending loss of 806,000, with a positive CEO note and dividend."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 4.926,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.63,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management reports third quarter net income of $4.9 million, down from $9.2 million a year earlier.",
+        "quote": "net income totaled $4.9 million for the third quarter of 2026, compared to $7.9 million for the previous quarter, and $9.2 million for the comparable quarter one year ago",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says it incurred $2.5 million of merger-related expenses in the quarter.",
+        "quote": "The Company incurred $2.5 million in merger-related expenses during the quarter.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the Pacific West Bank integration was completed and the board approved a $0.29 dividend.",
+        "quote": "our Board of Directors has approved our 55th consecutive quarterly cash dividend of $0.29 per common share",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO is pleased with the integration and dividend, while the release reports lower net income and a Home Lending loss."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-27T06:38:10+08:00"
   }
 ]
