@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T08:50:49+08:00",
+  "fetched_at": "2026-10-29T09:11:58+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,142 +9,148 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 21,
-  "answered": 21,
+  "requests": 22,
+  "answered": 22,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-28",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 399 ms"
+      "detail": "HTTP 200, 60 KB in 367 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-28&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 315 ms"
+      "detail": "HTTP 200, 59 KB in 370 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-28&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 380 ms"
+      "detail": "HTTP 200, 60 KB in 401 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-28&from=300",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 260 ms"
+      "detail": "HTTP 200, 61 KB in 379 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-28&from=400",
       "ok": true,
-      "detail": "HTTP 200, 54 KB in 276 ms"
+      "detail": "HTTP 200, 54 KB in 573 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 117 ms"
+      "detail": "HTTP 200, 149 KB in 141 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 110 ms"
+      "detail": "HTTP 200, 1 KB in 50 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 80 ms"
+      "detail": "HTTP 200, 361 KB in 56 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 77 ms"
+      "detail": "HTTP 200, 156 KB in 20 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 58 ms"
+      "detail": "HTTP 200, 156 KB in 20 ms"
     },
     {
-      "name": "Bank of Marin Bancorp filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/index.json",
+      "name": "Artisan Partners Asset Management Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1517302/000151730226000129/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 121 ms"
+      "detail": "HTTP 200, 2 KB in 32 ms"
     },
     {
-      "name": "Bank of Marin Bancorp press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1403475/000140347526000043/earningsrelease-ex991q32026.htm",
+      "name": "Artisan Partners Asset Management Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1517302/000151730226000129/0001517302-26-000129-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 727 KB in 291 ms"
+      "detail": "HTTP 200, 11 KB in 39 ms"
     },
     {
-      "name": "CMS ENERGY CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/811156/000110465926118972/index.json",
+      "name": "Artisan Partners Asset Management Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1517302/000151730226000129/artisan3q26pressrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 90 ms"
+      "detail": "HTTP 200, 5 KB in 33 ms"
     },
     {
-      "name": "CMS ENERGY CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/811156/000110465926118972/tm2628313d1_ex99-1.htm",
+      "name": "Morningstar, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000056/index.json",
       "ok": true,
-      "detail": "HTTP 200, 108 KB in 67 ms"
+      "detail": "HTTP 200, 4 KB in 24 ms"
+    },
+    {
+      "name": "Morningstar, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1289419/000128941926000056/exhibit991-pressrelease_09.htm",
+      "ok": true,
+      "detail": "HTTP 200, 435 KB in 45 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 192 ms"
+      "detail": "HTTP 200, 3,090 KB in 44 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 108 ms"
+      "detail": "HTTP 200, 4,373 KB in 26 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 159 ms"
+      "detail": "HTTP 200, 2,737 KB in 25 ms"
     },
     {
-      "name": "Bank of Marin Bancorp company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001403475.json",
+      "name": "Artisan Partners Asset Management Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001517302.json",
       "ok": true,
-      "detail": "HTTP 200, 4,851 KB in 105 ms"
+      "detail": "HTTP 200, 2,757 KB in 189 ms"
     },
     {
-      "name": "CMS ENERGY CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000811156.json",
+      "name": "Morningstar, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001289419.json",
       "ok": true,
-      "detail": "HTTP 200, 3,810 KB in 113 ms"
+      "detail": "HTTP 200, 3,892 KB in 29 ms"
     },
     {
       "name": "TRUSTCO BANK CORP N Y company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000357301.json",
       "ok": true,
-      "detail": "HTTP 200, 3,911 KB in 382 ms"
+      "detail": "HTTP 200, 3,911 KB in 396 ms"
     },
     {
       "name": "FS Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001530249.json",
       "ok": true,
-      "detail": "HTTP 200, 4,233 KB in 407 ms"
+      "detail": "HTTP 200, 4,233 KB in 472 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000357301.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000811156.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001289419.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001403475.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001517302.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001530249.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
@@ -155,11 +161,12 @@
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
     "efts.sec.gov_search-index_from400.json",
-    "www.sec.gov_Archives_edgar_data_1403475_000140347526000043_earningsrelease-ex991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1403475_000140347526000043_index.json",
+    "www.sec.gov_Archives_edgar_data_1289419_000128941926000056_exhibit991-pressrelease_09.htm",
+    "www.sec.gov_Archives_edgar_data_1289419_000128941926000056_index.json",
+    "www.sec.gov_Archives_edgar_data_1517302_000151730226000129_0001517302-26-000129-index.htm",
+    "www.sec.gov_Archives_edgar_data_1517302_000151730226000129_artisan3q26pressrelease.htm",
+    "www.sec.gov_Archives_edgar_data_1517302_000151730226000129_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_811156_000110465926118972_index.json",
-    "www.sec.gov_Archives_edgar_data_811156_000110465926118972_tm2628313d1_ex99-1.htm"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
   ]
 }
